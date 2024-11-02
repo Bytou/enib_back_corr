@@ -1,0 +1,1514 @@
+[
+  {
+    "id": 1,
+    "title": "Anna Karenina",
+    "author": "Mary Shelley",
+    "releaseDate": "04-18-1911",
+    "genre": [
+      "Children's",
+      "Science Fiction"
+    ],
+    "rating": 3.7,
+    "sales": 13721
+  },
+  {
+    "id": 2,
+    "title": "Catch-22",
+    "author": "Charlotte Brontë",
+    "releaseDate": "08-27-1970",
+    "genre": [
+      "Classic",
+      "Romance"
+    ],
+    "rating": 4.5,
+    "sales": 72031
+  },
+  {
+    "id": 3,
+    "title": "The Great Gatsby",
+    "author": "Charlotte Brontë",
+    "releaseDate": "10-18-1901",
+    "genre": [
+      "Romance",
+      "Mystery"
+    ],
+    "rating": 4.8,
+    "sales": 70656
+  },
+  {
+    "id": 4,
+    "title": "Pride and Prejudice",
+    "author": "Herman Melville",
+    "releaseDate": "01-28-1892",
+    "genre": [
+      "Classic",
+      "Dystopian"
+    ],
+    "rating": 4.0,
+    "sales": 13234
+  },
+  {
+    "id": 5,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "releaseDate": "10-26-1908",
+    "genre": [
+      "Historical",
+      "Horror"
+    ],
+    "rating": 4.3,
+    "sales": 74642
+  },
+  {
+    "id": 6,
+    "title": "Dracula",
+    "author": "Fyodor Dostoevsky",
+    "releaseDate": "06-13-1830",
+    "genre": [
+      "Science Fiction",
+      "Mystery"
+    ],
+    "rating": 4.5,
+    "sales": 61272
+  },
+  {
+    "id": 7,
+    "title": "Crime and Punishment",
+    "author": "George Orwell",
+    "releaseDate": "01-19-1870",
+    "genre": [
+      "Science Fiction",
+      "Historical"
+    ],
+    "rating": 4.5,
+    "sales": 65163
+  },
+  {
+    "id": 8,
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "George Orwell",
+    "releaseDate": "05-23-1829",
+    "genre": [
+      "Mystery",
+      "Fantasy"
+    ],
+    "rating": 3.6,
+    "sales": 38692
+  },
+  {
+    "id": 9,
+    "title": "The Count of Monte Cristo",
+    "author": "Bram Stoker",
+    "releaseDate": "02-27-1915",
+    "genre": [
+      "Classic",
+      "Historical"
+    ],
+    "rating": 4.1,
+    "sales": 44993
+  },
+  {
+    "id": 10,
+    "title": "Crime and Punishment",
+    "author": "Gabriel García Márquez",
+    "releaseDate": "11-04-1983",
+    "genre": [
+      "Gothic",
+      "Romance"
+    ],
+    "rating": 3.9,
+    "sales": 16264
+  },
+  {
+    "id": 11,
+    "title": "A Tale of Two Cities",
+    "author": "Fyodor Dostoevsky",
+    "releaseDate": "04-28-1912",
+    "genre": [
+      "Horror",
+      "Drama"
+    ],
+    "rating": 4.9,
+    "sales": 72913
+  },
+  {
+    "id": 12,
+    "title": "The Odyssey",
+    "author": "Victor Hugo",
+    "releaseDate": "05-21-1801",
+    "genre": [
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "rating": 4.3,
+    "sales": 42236
+  },
+  {
+    "id": 13,
+    "title": "The Count of Monte Cristo",
+    "author": "Emily Brontë",
+    "releaseDate": "11-02-1851",
+    "genre": [
+      "Dystopian",
+      "Fantasy"
+    ],
+    "rating": 3.9,
+    "sales": 79506
+  },
+  {
+    "id": 14,
+    "title": "Jane Eyre",
+    "author": "F. Scott Fitzgerald",
+    "releaseDate": "03-25-1930",
+    "genre": [
+      "Drama",
+      "Adventure"
+    ],
+    "rating": 4.5,
+    "sales": 71659
+  },
+  {
+    "id": 15,
+    "title": "Brave New World",
+    "author": "Homer",
+    "releaseDate": "07-14-1979",
+    "genre": [
+      "Science Fiction",
+      "Fantasy"
+    ],
+    "rating": 4.7,
+    "sales": 66351
+  },
+  {
+    "id": 16,
+    "title": "The Great Gatsby",
+    "author": "Fyodor Dostoevsky",
+    "releaseDate": "12-01-1947",
+    "genre": [
+      "Romance",
+      "Epic"
+    ],
+    "rating": 4.4,
+    "sales": 38745
+  },
+  {
+    "id": 17,
+    "title": "Frankenstein",
+    "author": "Harper Lee",
+    "releaseDate": "09-17-1826",
+    "genre": [
+      "Gothic",
+      "Adventure"
+    ],
+    "rating": 3.5,
+    "sales": 59034
+  },
+  {
+    "id": 18,
+    "title": "The Iliad",
+    "author": "Leo Tolstoy",
+    "releaseDate": "05-04-1904",
+    "genre": [
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "rating": 3.7,
+    "sales": 28589
+  },
+  {
+    "id": 19,
+    "title": "The Odyssey",
+    "author": "Joseph Heller",
+    "releaseDate": "05-30-1938",
+    "genre": [
+      "Mystery",
+      "Horror"
+    ],
+    "rating": 3.7,
+    "sales": 75892
+  },
+  {
+    "id": 20,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "releaseDate": "05-25-1957",
+    "genre": [
+      "Classic",
+      "Mystery"
+    ],
+    "rating": 4.6,
+    "sales": 54812
+  },
+  {
+    "id": 21,
+    "title": "Wuthering Heights",
+    "author": "Charles Dickens",
+    "releaseDate": "04-02-1927",
+    "genre": [
+      "Children's",
+      "Classic"
+    ],
+    "rating": 4.2,
+    "sales": 47814
+  },
+  {
+    "id": 22,
+    "title": "The Picture of Dorian Gray",
+    "author": "Homer",
+    "releaseDate": "05-01-1852",
+    "genre": [
+      "Dystopian",
+      "Adventure"
+    ],
+    "rating": 4.8,
+    "sales": 79796
+  },
+  {
+    "id": 23,
+    "title": "Don Quixote",
+    "author": "Homer",
+    "releaseDate": "12-25-2008",
+    "genre": [
+      "Adventure",
+      "Science Fiction"
+    ],
+    "rating": 4.4,
+    "sales": 77301
+  },
+  {
+    "id": 24,
+    "title": "Les Misérables",
+    "author": "Mary Shelley",
+    "releaseDate": "05-23-1950",
+    "genre": [
+      "Epic",
+      "Classic"
+    ],
+    "rating": 4.8,
+    "sales": 41466
+  },
+  {
+    "id": 25,
+    "title": "Frankenstein",
+    "author": "Oscar Wilde",
+    "releaseDate": "11-07-1836",
+    "genre": [
+      "Epic",
+      "Mystery"
+    ],
+    "rating": 3.7,
+    "sales": 35957
+  },
+  {
+    "id": 26,
+    "title": "Jane Eyre",
+    "author": "F. Scott Fitzgerald",
+    "releaseDate": "11-22-1866",
+    "genre": [
+      "Romance",
+      "Science Fiction"
+    ],
+    "rating": 4.2,
+    "sales": 67615
+  },
+  {
+    "id": 27,
+    "title": "Heart of Darkness",
+    "author": "Alexandre Dumas",
+    "releaseDate": "07-13-1984",
+    "genre": [
+      "Epic",
+      "Fantasy"
+    ],
+    "rating": 4.0,
+    "sales": 50380
+  },
+  {
+    "id": 28,
+    "title": "Frankenstein",
+    "author": "Alexandre Dumas",
+    "releaseDate": "03-14-1898",
+    "genre": [
+      "Adventure",
+      "Historical"
+    ],
+    "rating": 4.5,
+    "sales": 79699
+  },
+  {
+    "id": 29,
+    "title": "The Great Gatsby",
+    "author": "Harper Lee",
+    "releaseDate": "09-24-1916",
+    "genre": [
+      "Horror",
+      "Epic"
+    ],
+    "rating": 4.4,
+    "sales": 23886
+  },
+  {
+    "id": 30,
+    "title": "The Count of Monte Cristo",
+    "author": "Joseph Heller",
+    "releaseDate": "10-01-1829",
+    "genre": [
+      "Philosophical",
+      "Philosophical"
+    ],
+    "rating": 3.8,
+    "sales": 52683
+  },
+  {
+    "id": 31,
+    "title": "A Tale of Two Cities",
+    "author": "Herman Melville",
+    "releaseDate": "05-26-1965",
+    "genre": [
+      "Science Fiction",
+      "Romance"
+    ],
+    "rating": 3.6,
+    "sales": 79525
+  },
+  {
+    "id": 32,
+    "title": "The Count of Monte Cristo",
+    "author": "Emily Brontë",
+    "releaseDate": "03-21-1970",
+    "genre": [
+      "Gothic",
+      "Science Fiction"
+    ],
+    "rating": 3.8,
+    "sales": 60563
+  },
+  {
+    "id": 33,
+    "title": "A Tale of Two Cities",
+    "author": "George Orwell",
+    "releaseDate": "08-10-1906",
+    "genre": [
+      "Philosophical",
+      "Mystery"
+    ],
+    "rating": 4.0,
+    "sales": 70552
+  },
+  {
+    "id": 34,
+    "title": "Pride and Prejudice",
+    "author": "Fyodor Dostoevsky",
+    "releaseDate": "11-10-1815",
+    "genre": [
+      "Adventure",
+      "Adventure"
+    ],
+    "rating": 3.5,
+    "sales": 54644
+  },
+  {
+    "id": 35,
+    "title": "Frankenstein",
+    "author": "F. Scott Fitzgerald",
+    "releaseDate": "01-19-1996",
+    "genre": [
+      "Mystery",
+      "Gothic"
+    ],
+    "rating": 4.0,
+    "sales": 30303
+  },
+  {
+    "id": 36,
+    "title": "Jane Eyre",
+    "author": "Arthur Conan Doyle",
+    "releaseDate": "10-01-1817",
+    "genre": [
+      "Drama",
+      "Epic"
+    ],
+    "rating": 4.8,
+    "sales": 43487
+  },
+  {
+    "id": 37,
+    "title": "Brave New World",
+    "author": "Alexandre Dumas",
+    "releaseDate": "04-12-1830",
+    "genre": [
+      "Horror",
+      "Gothic"
+    ],
+    "rating": 4.5,
+    "sales": 38098
+  },
+  {
+    "id": 38,
+    "title": "Dracula",
+    "author": "Charlotte Brontë",
+    "releaseDate": "01-28-1890",
+    "genre": [
+      "Epic",
+      "Drama"
+    ],
+    "rating": 4.6,
+    "sales": 13909
+  },
+  {
+    "id": 39,
+    "title": "The Brothers Karamazov",
+    "author": "Charlotte Brontë",
+    "releaseDate": "11-07-1918",
+    "genre": [
+      "Horror",
+      "Drama"
+    ],
+    "rating": 4.9,
+    "sales": 40808
+  },
+  {
+    "id": 40,
+    "title": "The Count of Monte Cristo",
+    "author": "Herman Melville",
+    "releaseDate": "09-06-1832",
+    "genre": [
+      "Dystopian",
+      "Mystery"
+    ],
+    "rating": 3.5,
+    "sales": 10245
+  },
+  {
+    "id": 41,
+    "title": "A Tale of Two Cities",
+    "author": "Alexandre Dumas",
+    "releaseDate": "09-17-1867",
+    "genre": [
+      "Gothic",
+      "Philosophical"
+    ],
+    "rating": 3.5,
+    "sales": 71336
+  },
+  {
+    "id": 42,
+    "title": "Moby Dick",
+    "author": "Charles Dickens",
+    "releaseDate": "10-04-1800",
+    "genre": [
+      "Mystery",
+      "Epic"
+    ],
+    "rating": 3.8,
+    "sales": 71731
+  },
+  {
+    "id": 43,
+    "title": "Anna Karenina",
+    "author": "Jane Austen",
+    "releaseDate": "03-03-1824",
+    "genre": [
+      "Drama",
+      "Drama"
+    ],
+    "rating": 4.1,
+    "sales": 74668
+  },
+  {
+    "id": 44,
+    "title": "Heart of Darkness",
+    "author": "George Orwell",
+    "releaseDate": "12-23-1996",
+    "genre": [
+      "Drama",
+      "Philosophical"
+    ],
+    "rating": 4.6,
+    "sales": 54552
+  },
+  {
+    "id": 45,
+    "title": "Moby Dick",
+    "author": "F. Scott Fitzgerald",
+    "releaseDate": "12-21-1895",
+    "genre": [
+      "Horror",
+      "Dystopian"
+    ],
+    "rating": 3.6,
+    "sales": 22274
+  },
+  {
+    "id": 46,
+    "title": "Les Misérables",
+    "author": "Oscar Wilde",
+    "releaseDate": "09-14-1991",
+    "genre": [
+      "Dystopian",
+      "Horror"
+    ],
+    "rating": 4.3,
+    "sales": 69661
+  },
+  {
+    "id": 47,
+    "title": "Pride and Prejudice",
+    "author": "Mary Shelley",
+    "releaseDate": "06-05-1904",
+    "genre": [
+      "Fantasy",
+      "Dystopian"
+    ],
+    "rating": 4.1,
+    "sales": 72082
+  },
+  {
+    "id": 48,
+    "title": "Catch-22",
+    "author": "Mary Shelley",
+    "releaseDate": "10-03-1867",
+    "genre": [
+      "Dystopian",
+      "Historical"
+    ],
+    "rating": 4.4,
+    "sales": 76827
+  },
+  {
+    "id": 49,
+    "title": "Brave New World",
+    "author": "Emily Brontë",
+    "releaseDate": "01-01-1957",
+    "genre": [
+      "Science Fiction",
+      "Fantasy"
+    ],
+    "rating": 4.9,
+    "sales": 67029
+  },
+  {
+    "id": 50,
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Charlotte Brontë",
+    "releaseDate": "03-18-1941",
+    "genre": [
+      "Historical",
+      "Children's"
+    ],
+    "rating": 3.9,
+    "sales": 75545
+  },
+  {
+    "id": 51,
+    "title": "The Count of Monte Cristo",
+    "author": "Emily Brontë",
+    "releaseDate": "11-26-1826",
+    "genre": [
+      "Horror",
+      "Adventure"
+    ],
+    "rating": 4.2,
+    "sales": 22957
+  },
+  {
+    "id": 52,
+    "title": "The Count of Monte Cristo",
+    "author": "Gabriel García Márquez",
+    "releaseDate": "03-13-1869",
+    "genre": [
+      "Gothic",
+      "Adventure"
+    ],
+    "rating": 3.7,
+    "sales": 11401
+  },
+  {
+    "id": 53,
+    "title": "Wuthering Heights",
+    "author": "Charlotte Brontë",
+    "releaseDate": "01-23-1866",
+    "genre": [
+      "Classic",
+      "Mystery"
+    ],
+    "rating": 4.8,
+    "sales": 52673
+  },
+  {
+    "id": 54,
+    "title": "Great Expectations",
+    "author": "Oscar Wilde",
+    "releaseDate": "05-07-1972",
+    "genre": [
+      "Dystopian",
+      "Fantasy"
+    ],
+    "rating": 3.6,
+    "sales": 14269
+  },
+  {
+    "id": 55,
+    "title": "The Picture of Dorian Gray",
+    "author": "Harper Lee",
+    "releaseDate": "09-22-1922",
+    "genre": [
+      "Adventure",
+      "Romance"
+    ],
+    "rating": 4.5,
+    "sales": 79342
+  },
+  {
+    "id": 56,
+    "title": "The Odyssey",
+    "author": "Homer",
+    "releaseDate": "04-20-1856",
+    "genre": [
+      "Gothic",
+      "Children's"
+    ],
+    "rating": 4.3,
+    "sales": 38418
+  },
+  {
+    "id": 57,
+    "title": "Brave New World",
+    "author": "Arthur Conan Doyle",
+    "releaseDate": "04-06-1992",
+    "genre": [
+      "Philosophical",
+      "Children's"
+    ],
+    "rating": 4.9,
+    "sales": 75583
+  },
+  {
+    "id": 58,
+    "title": "1984",
+    "author": "Aldous Huxley",
+    "releaseDate": "02-25-1855",
+    "genre": [
+      "Fantasy",
+      "Mystery"
+    ],
+    "rating": 4.6,
+    "sales": 72761
+  },
+  {
+    "id": 59,
+    "title": "Frankenstein",
+    "author": "George Orwell",
+    "releaseDate": "10-04-1861",
+    "genre": [
+      "Epic",
+      "Philosophical"
+    ],
+    "rating": 4.8,
+    "sales": 37007
+  },
+  {
+    "id": 60,
+    "title": "A Tale of Two Cities",
+    "author": "Charlotte Brontë",
+    "releaseDate": "07-01-1844",
+    "genre": [
+      "Dystopian",
+      "Adventure"
+    ],
+    "rating": 4.4,
+    "sales": 47371
+  },
+  {
+    "id": 61,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "releaseDate": "10-14-1996",
+    "genre": [
+      "Philosophical",
+      "Mystery"
+    ],
+    "rating": 4.1,
+    "sales": 44059
+  },
+  {
+    "id": 62,
+    "title": "Moby Dick",
+    "author": "Charlotte Brontë",
+    "releaseDate": "08-04-1836",
+    "genre": [
+      "Gothic",
+      "Dystopian"
+    ],
+    "rating": 4.9,
+    "sales": 40435
+  },
+  {
+    "id": 63,
+    "title": "Catch-22",
+    "author": "Leo Tolstoy",
+    "releaseDate": "09-17-1965",
+    "genre": [
+      "Philosophical",
+      "Horror"
+    ],
+    "rating": 3.7,
+    "sales": 13971
+  },
+  {
+    "id": 64,
+    "title": "Brave New World",
+    "author": "Charlotte Brontë",
+    "releaseDate": "03-18-1905",
+    "genre": [
+      "Epic",
+      "Horror"
+    ],
+    "rating": 4.3,
+    "sales": 20422
+  },
+  {
+    "id": 65,
+    "title": "Catch-22",
+    "author": "Charles Dickens",
+    "releaseDate": "08-31-1814",
+    "genre": [
+      "Horror",
+      "Mystery"
+    ],
+    "rating": 4.0,
+    "sales": 35570
+  },
+  {
+    "id": 66,
+    "title": "Brave New World",
+    "author": "Charlotte Brontë",
+    "releaseDate": "05-21-1925",
+    "genre": [
+      "Science Fiction",
+      "Historical"
+    ],
+    "rating": 5.0,
+    "sales": 42111
+  },
+  {
+    "id": 67,
+    "title": "Heart of Darkness",
+    "author": "George Orwell",
+    "releaseDate": "05-11-1936",
+    "genre": [
+      "Gothic",
+      "Adventure"
+    ],
+    "rating": 4.1,
+    "sales": 21863
+  },
+  {
+    "id": 68,
+    "title": "The Picture of Dorian Gray",
+    "author": "Aldous Huxley",
+    "releaseDate": "09-06-1829",
+    "genre": [
+      "Fantasy",
+      "Dystopian"
+    ],
+    "rating": 4.1,
+    "sales": 67501
+  },
+  {
+    "id": 69,
+    "title": "The Odyssey",
+    "author": "Alexandre Dumas",
+    "releaseDate": "09-21-1933",
+    "genre": [
+      "Gothic",
+      "Children's"
+    ],
+    "rating": 4.8,
+    "sales": 48682
+  },
+  {
+    "id": 70,
+    "title": "A Tale of Two Cities",
+    "author": "Leo Tolstoy",
+    "releaseDate": "11-03-1996",
+    "genre": [
+      "Horror",
+      "Philosophical"
+    ],
+    "rating": 3.8,
+    "sales": 29603
+  },
+  {
+    "id": 71,
+    "title": "The Great Gatsby",
+    "author": "Harper Lee",
+    "releaseDate": "08-23-1949",
+    "genre": [
+      "Adventure",
+      "Historical"
+    ],
+    "rating": 3.6,
+    "sales": 54222
+  },
+  {
+    "id": 72,
+    "title": "Les Misérables",
+    "author": "Fyodor Dostoevsky",
+    "releaseDate": "11-08-1864",
+    "genre": [
+      "Epic",
+      "Drama"
+    ],
+    "rating": 4.0,
+    "sales": 13533
+  },
+  {
+    "id": 73,
+    "title": "The Odyssey",
+    "author": "Gabriel García Márquez",
+    "releaseDate": "12-19-1842",
+    "genre": [
+      "Science Fiction",
+      "Philosophical"
+    ],
+    "rating": 4.8,
+    "sales": 27005
+  },
+  {
+    "id": 74,
+    "title": "Brave New World",
+    "author": "Arthur Conan Doyle",
+    "releaseDate": "05-27-1913",
+    "genre": [
+      "Dystopian",
+      "Philosophical"
+    ],
+    "rating": 4.8,
+    "sales": 79430
+  },
+  {
+    "id": 75,
+    "title": "Don Quixote",
+    "author": "Oscar Wilde",
+    "releaseDate": "02-22-1824",
+    "genre": [
+      "Mystery",
+      "Drama"
+    ],
+    "rating": 3.7,
+    "sales": 21545
+  },
+  {
+    "id": 76,
+    "title": "Jane Eyre",
+    "author": "Aldous Huxley",
+    "releaseDate": "07-30-1910",
+    "genre": [
+      "Drama",
+      "Adventure"
+    ],
+    "rating": 4.1,
+    "sales": 40546
+  },
+  {
+    "id": 77,
+    "title": "Catch-22",
+    "author": "Oscar Wilde",
+    "releaseDate": "07-06-1822",
+    "genre": [
+      "Gothic",
+      "Dystopian"
+    ],
+    "rating": 4.7,
+    "sales": 46571
+  },
+  {
+    "id": 78,
+    "title": "Crime and Punishment",
+    "author": "Harper Lee",
+    "releaseDate": "06-07-1948",
+    "genre": [
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "rating": 3.6,
+    "sales": 57863
+  },
+  {
+    "id": 79,
+    "title": "1984",
+    "author": "Aldous Huxley",
+    "releaseDate": "01-23-1880",
+    "genre": [
+      "Epic",
+      "Dystopian"
+    ],
+    "rating": 4.0,
+    "sales": 46662
+  },
+  {
+    "id": 80,
+    "title": "1984",
+    "author": "Oscar Wilde",
+    "releaseDate": "11-12-1924",
+    "genre": [
+      "Historical",
+      "Science Fiction"
+    ],
+    "rating": 3.6,
+    "sales": 52957
+  },
+  {
+    "id": 81,
+    "title": "The Brothers Karamazov",
+    "author": "Mary Shelley",
+    "releaseDate": "09-23-1954",
+    "genre": [
+      "Drama",
+      "Science Fiction"
+    ],
+    "rating": 4.8,
+    "sales": 44748
+  },
+  {
+    "id": 82,
+    "title": "To Kill a Mockingbird",
+    "author": "Fyodor Dostoevsky",
+    "releaseDate": "03-25-1875",
+    "genre": [
+      "Horror",
+      "Fantasy"
+    ],
+    "rating": 3.7,
+    "sales": 68078
+  },
+  {
+    "id": 83,
+    "title": "Moby Dick",
+    "author": "Charlotte Brontë",
+    "releaseDate": "03-12-1896",
+    "genre": [
+      "Romance",
+      "Drama"
+    ],
+    "rating": 4.0,
+    "sales": 24166
+  },
+  {
+    "id": 84,
+    "title": "The Brothers Karamazov",
+    "author": "Arthur Conan Doyle",
+    "releaseDate": "08-27-1894",
+    "genre": [
+      "Philosophical",
+      "Fantasy"
+    ],
+    "rating": 4.6,
+    "sales": 48732
+  },
+  {
+    "id": 85,
+    "title": "Pride and Prejudice",
+    "author": "Aldous Huxley",
+    "releaseDate": "05-21-1842",
+    "genre": [
+      "Historical",
+      "Philosophical"
+    ],
+    "rating": 4.9,
+    "sales": 75165
+  },
+  {
+    "id": 86,
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Alexandre Dumas",
+    "releaseDate": "08-21-1942",
+    "genre": [
+      "Gothic",
+      "Children's"
+    ],
+    "rating": 4.2,
+    "sales": 68698
+  },
+  {
+    "id": 87,
+    "title": "Catch-22",
+    "author": "Bram Stoker",
+    "releaseDate": "12-19-1856",
+    "genre": [
+      "Epic",
+      "Historical"
+    ],
+    "rating": 3.6,
+    "sales": 60790
+  },
+  {
+    "id": 88,
+    "title": "To Kill a Mockingbird",
+    "author": "Alexandre Dumas",
+    "releaseDate": "11-06-1992",
+    "genre": [
+      "Fantasy",
+      "Gothic"
+    ],
+    "rating": 4.8,
+    "sales": 68123
+  },
+  {
+    "id": 89,
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Gabriel García Márquez",
+    "releaseDate": "02-08-1928",
+    "genre": [
+      "Fantasy",
+      "Mystery"
+    ],
+    "rating": 4.8,
+    "sales": 76950
+  },
+  {
+    "id": 90,
+    "title": "1984",
+    "author": "Herman Melville",
+    "releaseDate": "06-29-2014",
+    "genre": [
+      "Children's",
+      "Romance"
+    ],
+    "rating": 4.5,
+    "sales": 63336
+  },
+  {
+    "id": 91,
+    "title": "Catch-22",
+    "author": "Jane Austen",
+    "releaseDate": "09-03-1828",
+    "genre": [
+      "Drama",
+      "Mystery"
+    ],
+    "rating": 3.7,
+    "sales": 30675
+  },
+  {
+    "id": 92,
+    "title": "Dracula",
+    "author": "Alexandre Dumas",
+    "releaseDate": "09-04-1907",
+    "genre": [
+      "Dystopian",
+      "Romance"
+    ],
+    "rating": 4.7,
+    "sales": 61910
+  },
+  {
+    "id": 93,
+    "title": "The Count of Monte Cristo",
+    "author": "Harper Lee",
+    "releaseDate": "12-13-1817",
+    "genre": [
+      "Romance",
+      "Classic"
+    ],
+    "rating": 4.5,
+    "sales": 76264
+  },
+  {
+    "id": 94,
+    "title": "The Picture of Dorian Gray",
+    "author": "F. Scott Fitzgerald",
+    "releaseDate": "01-26-1932",
+    "genre": [
+      "Dystopian",
+      "Fantasy"
+    ],
+    "rating": 4.3,
+    "sales": 69417
+  },
+  {
+    "id": 95,
+    "title": "The Brothers Karamazov",
+    "author": "Joseph Heller",
+    "releaseDate": "09-22-2010",
+    "genre": [
+      "Epic",
+      "Adventure"
+    ],
+    "rating": 4.7,
+    "sales": 65786
+  },
+  {
+    "id": 96,
+    "title": "The Odyssey",
+    "author": "Alexandre Dumas",
+    "releaseDate": "01-09-1815",
+    "genre": [
+      "Science Fiction",
+      "Historical"
+    ],
+    "rating": 5.0,
+    "sales": 39398
+  },
+  {
+    "id": 97,
+    "title": "The Picture of Dorian Gray",
+    "author": "Bram Stoker",
+    "releaseDate": "03-02-1901",
+    "genre": [
+      "Children's",
+      "Horror"
+    ],
+    "rating": 3.9,
+    "sales": 47847
+  },
+  {
+    "id": 98,
+    "title": "Frankenstein",
+    "author": "Alexandre Dumas",
+    "releaseDate": "04-18-1867",
+    "genre": [
+      "Science Fiction",
+      "Romance"
+    ],
+    "rating": 4.6,
+    "sales": 15201
+  },
+  {
+    "id": 99,
+    "title": "Heart of Darkness",
+    "author": "Jane Austen",
+    "releaseDate": "04-03-1937",
+    "genre": [
+      "Classic",
+      "Epic"
+    ],
+    "rating": 3.6,
+    "sales": 31630
+  },
+  {
+    "id": 100,
+    "title": "Dracula",
+    "author": "F. Scott Fitzgerald",
+    "releaseDate": "10-27-1940",
+    "genre": [
+      "Romance",
+      "Science Fiction"
+    ],
+    "rating": 4.0,
+    "sales": 22402
+  },
+  {
+    "id": 166,
+    "title": "The Wind in the Willows",
+    "author": "Kenneth Grahame",
+    "releaseDate": "10-08-1908",
+    "genre": [
+      "Fantasy",
+      "Children's"
+    ],
+    "rating": 4.6,
+    "sales": 19000
+  },
+  {
+    "id": 167,
+    "title": "Peter Pan",
+    "author": "J.M. Barrie",
+    "releaseDate": "01-17-1911",
+    "genre": [
+      "Fantasy",
+      "Children's"
+    ],
+    "rating": 4.7,
+    "sales": 21000
+  },
+  {
+    "id": 168,
+    "title": "The Tale of Peter Rabbit",
+    "author": "Beatrix Potter",
+    "releaseDate": "09-01-1902",
+    "genre": [
+      "Children's",
+      "Classic"
+    ],
+    "rating": 4.5,
+    "sales": 18000
+  },
+  {
+    "id": 169,
+    "title": "Winnie-the-Pooh",
+    "author": "A.A. Milne",
+    "releaseDate": "10-14-1926",
+    "genre": [
+      "Children's",
+      "Classic"
+    ],
+    "rating": 4.6,
+    "sales": 19000
+  },
+  {
+    "id": 170,
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "releaseDate": "04-06-1943",
+    "genre": [
+      "Fantasy",
+      "Children's"
+    ],
+    "rating": 4.9,
+    "sales": 25000
+  },
+  {
+    "id": 171,
+    "title": "Charlotte's Web",
+    "author": "E.B. White",
+    "releaseDate": "10-15-1952",
+    "genre": [
+      "Children's",
+      "Fantasy"
+    ],
+    "rating": 4.8,
+    "sales": 24000
+  },
+  {
+    "id": 172,
+    "title": "Matilda",
+    "author": "Roald Dahl",
+    "releaseDate": "10-01-1988",
+    "genre": [
+      "Children's",
+      "Fantasy"
+    ],
+    "rating": 4.8,
+    "sales": 24000
+  },
+  {
+    "id": 173,
+    "title": "Charlie and the Chocolate Factory",
+    "author": "Roald Dahl",
+    "releaseDate": "01-17-1964",
+    "genre": [
+      "Children's",
+      "Fantasy"
+    ],
+    "rating": 4.9,
+    "sales": 25000
+  },
+  {
+    "id": 174,
+    "title": "The BFG",
+    "author": "Roald Dahl",
+    "releaseDate": "10-01-1982",
+    "genre": [
+      "Children's",
+      "Fantasy"
+    ],
+    "rating": 4.7,
+    "sales": 23000
+  },
+  {
+    "id": 175,
+    "title": "James and the Giant Peach",
+    "author": "Roald Dahl",
+    "releaseDate": "07-17-1961",
+    "genre": [
+      "Children's",
+      "Fantasy"
+    ],
+    "rating": 4.6,
+    "sales": 22000
+  },
+  {
+    "id": 176,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "releaseDate": "07-16-1951",
+    "genre": [
+      "Classic",
+      "Coming of Age"
+    ],
+    "rating": 4.5,
+    "sales": 18000
+  },
+  {
+    "id": 177,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "releaseDate": "07-11-1960",
+    "genre": [
+      "Classic",
+      "Coming of Age"
+    ],
+    "rating": 4.9,
+    "sales": 25000
+  },
+  {
+    "id": 178,
+    "title": "The Outsiders",
+    "author": "S.E. Hinton",
+    "releaseDate": "04-24-1967",
+    "genre": [
+      "Coming of Age",
+      "Drama"
+    ],
+    "rating": 4.7,
+    "sales": 22000
+  },
+  {
+    "id": 179,
+    "title": "Lord of the Flies",
+    "author": "William Golding",
+    "releaseDate": "09-17-1954",
+    "genre": [
+      "Classic",
+      "Adventure"
+    ],
+    "rating": 4.6,
+    "sales": 19000
+  },
+  {
+    "id": 180,
+    "title": "1984",
+    "author": "George Orwell",
+    "releaseDate": "06-08-1949",
+    "genre": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "rating": 4.9,
+    "sales": 25000
+  },
+  {
+    "id": 181,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "releaseDate": "08-01-1932",
+    "genre": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "rating": 4.8,
+    "sales": 24000
+  },
+  {
+    "id": 182,
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "releaseDate": "10-19-1953",
+    "genre": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "rating": 4.7,
+    "sales": 23000
+  },
+  {
+    "id": 183,
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "releaseDate": "08-17-1945",
+    "genre": [
+      "Dystopian",
+      "Political Satire"
+    ],
+    "rating": 4.8,
+    "sales": 24000
+  },
+  {
+    "id": 184,
+    "title": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut",
+    "releaseDate": "03-31-1969",
+    "genre": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "rating": 4.6,
+    "sales": 22000
+  },
+  {
+    "id": 185,
+    "title": "A Clockwork Orange",
+    "author": "Anthony Burgess",
+    "releaseDate": "02-06-1962",
+    "genre": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "rating": 4.5,
+    "sales": 19000
+  },
+  {
+    "id": 186,
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "releaseDate": "09-01-1985",
+    "genre": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "rating": 4.7,
+    "sales": 23000
+  },
+  {
+    "id": 187,
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "releaseDate": "04-26-1993",
+    "genre": [
+      "Dystopian",
+      "Young Adult"
+    ],
+    "rating": 4.7,
+    "sales": 23000
+  },
+  {
+    "id": 188,
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "releaseDate": "09-14-2008",
+    "genre": [
+      "Dystopian",
+      "Young Adult"
+    ],
+    "rating": 4.9,
+    "sales": 25000
+  },
+  {
+    "id": 189,
+    "title": "Catching Fire",
+    "author": "Suzanne Collins",
+    "releaseDate": "09-01-2009",
+    "genre": [
+      "Dystopian",
+      "Young Adult"
+    ],
+    "rating": 4.8,
+    "sales": 24000
+  },
+  {
+    "id": 190,
+    "title": "Mockingjay",
+    "author": "Suzanne Collins",
+    "releaseDate": "08-24-2010",
+    "genre": [
+      "Dystopian",
+      "Young Adult"
+    ],
+    "rating": 4.7,
+    "sales": 23000
+  },
+  {
+    "id": 191,
+    "title": "Divergent",
+    "author": "Veronica Roth",
+    "releaseDate": "04-25-2011",
+    "genre": [
+      "Dystopian",
+      "Young Adult"
+    ],
+    "rating": 4.6,
+    "sales": 22000
+  }
+]
