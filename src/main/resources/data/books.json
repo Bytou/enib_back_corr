@@ -1,1514 +1,2599 @@
 [
   {
     "id": 1,
-    "title": "Anna Karenina",
-    "author": "Mary Shelley",
-    "releaseDate": "04-18-1911",
+    "title": "Forward role",
+    "author": "Carol Gallagher",
+    "releaseDate": "10-20-1973",
+    "description": "Suffer give itself him score customer official.",
     "genre": [
-      "Children's",
-      "Science Fiction"
+      "Biography",
+      "Science Fiction",
+      "Non-Fiction"
     ],
-    "rating": 3.7,
-    "sales": 13721
+    "rating": 2.9,
+    "sales": 84757
   },
   {
     "id": 2,
-    "title": "Catch-22",
-    "author": "Charlotte Brontë",
-    "releaseDate": "08-27-1970",
+    "title": "Have site exist",
+    "author": "Dr. Jason Woods DVM",
+    "releaseDate": "04-06-1989",
+    "description": "Make benefit out family onto mean. Yard past no sport TV fight.",
     "genre": [
-      "Classic",
-      "Romance"
+      "Mystery",
+      "Romance",
+      "Thriller"
     ],
-    "rating": 4.5,
-    "sales": 72031
+    "rating": 4.2,
+    "sales": 5775
   },
   {
     "id": 3,
-    "title": "The Great Gatsby",
-    "author": "Charlotte Brontë",
-    "releaseDate": "10-18-1901",
+    "title": "Do",
+    "author": "Ashley Baker",
+    "releaseDate": "07-30-2022",
+    "description": "Work toward me movement toward whether. Beyond lot character more east animal loss.",
     "genre": [
-      "Romance",
-      "Mystery"
+      "Fantasy",
+      "Non-Fiction",
+      "Biography"
     ],
-    "rating": 4.8,
-    "sales": 70656
+    "rating": 4.1,
+    "sales": 60549
   },
   {
     "id": 4,
-    "title": "Pride and Prejudice",
-    "author": "Herman Melville",
-    "releaseDate": "01-28-1892",
+    "title": "Language turn",
+    "author": "Rebecca King",
+    "releaseDate": "08-02-1973",
+    "description": "Data already box picture meet friend. Describe two national trial player.",
     "genre": [
-      "Classic",
-      "Dystopian"
+      "Non-Fiction"
     ],
-    "rating": 4.0,
-    "sales": 13234
+    "rating": 1.7,
+    "sales": 82547
   },
   {
     "id": 5,
-    "title": "Brave New World",
-    "author": "Aldous Huxley",
-    "releaseDate": "10-26-1908",
+    "title": "List sing",
+    "author": "Shannon Colon",
+    "releaseDate": "12-07-1965",
+    "description": "Subject training later. That score well if. Who game act concern.",
     "genre": [
-      "Historical",
-      "Horror"
+      "Fantasy",
+      "Non-Fiction",
+      "Science Fiction"
     ],
-    "rating": 4.3,
-    "sales": 74642
+    "rating": 2.9,
+    "sales": 41095
   },
   {
     "id": 6,
-    "title": "Dracula",
-    "author": "Fyodor Dostoevsky",
-    "releaseDate": "06-13-1830",
+    "title": "I agent land reason",
+    "author": "Richard King",
+    "releaseDate": "04-15-1971",
+    "description": "Green heart wear leave. Big window full to summer although myself.",
     "genre": [
-      "Science Fiction",
-      "Mystery"
+      "Non-Fiction",
+      "Thriller",
+      "Biography"
     ],
-    "rating": 4.5,
-    "sales": 61272
+    "rating": 4.3,
+    "sales": 17953
   },
   {
     "id": 7,
-    "title": "Crime and Punishment",
-    "author": "George Orwell",
-    "releaseDate": "01-19-1870",
+    "title": "Budget husband city",
+    "author": "Samantha Boyle",
+    "releaseDate": "10-28-1925",
+    "description": "Local somebody member charge near walk.",
     "genre": [
-      "Science Fiction",
-      "Historical"
+      "Thriller"
     ],
-    "rating": 4.5,
-    "sales": 65163
+    "rating": 2.6,
+    "sales": 6282
   },
   {
     "id": 8,
-    "title": "The Adventures of Sherlock Holmes",
-    "author": "George Orwell",
-    "releaseDate": "05-23-1829",
+    "title": "Majority everything",
+    "author": "Jay Sparks",
+    "releaseDate": "12-21-1990",
+    "description": "Less light too get. Second receive now growth.",
     "genre": [
-      "Mystery",
-      "Fantasy"
+      "Historical",
+      "Non-Fiction",
+      "Mystery"
     ],
-    "rating": 3.6,
-    "sales": 38692
+    "rating": 4.5,
+    "sales": 32667
   },
   {
     "id": 9,
-    "title": "The Count of Monte Cristo",
-    "author": "Bram Stoker",
-    "releaseDate": "02-27-1915",
+    "title": "Bad record",
+    "author": "Linda Brennan",
+    "releaseDate": "07-10-1882",
+    "description": "Fight start course himself fund. Support finish scientist perform full. Car rest put single father.",
     "genre": [
-      "Classic",
-      "Historical"
+      "Science Fiction"
     ],
-    "rating": 4.1,
-    "sales": 44993
+    "rating": 1.6,
+    "sales": 27726
   },
   {
     "id": 10,
-    "title": "Crime and Punishment",
-    "author": "Gabriel García Márquez",
-    "releaseDate": "11-04-1983",
+    "title": "Doctor exactly serve together",
+    "author": "Deborah Todd",
+    "releaseDate": "04-19-2014",
+    "description": "Church TV fall establish quite bill wide. Spring race work call because.",
     "genre": [
-      "Gothic",
       "Romance"
     ],
-    "rating": 3.9,
-    "sales": 16264
+    "rating": 3.6,
+    "sales": 19391
   },
   {
     "id": 11,
-    "title": "A Tale of Two Cities",
-    "author": "Fyodor Dostoevsky",
-    "releaseDate": "04-28-1912",
+    "title": "Expect but career",
+    "author": "Christina Stewart",
+    "releaseDate": "01-18-2023",
+    "description": "Room town lot personal themselves yourself. Will moment mind hair option.",
     "genre": [
-      "Horror",
-      "Drama"
+      "Children's",
+      "Biography",
+      "Fiction"
     ],
-    "rating": 4.9,
-    "sales": 72913
+    "rating": 3.3,
+    "sales": 53281
   },
   {
     "id": 12,
-    "title": "The Odyssey",
-    "author": "Victor Hugo",
-    "releaseDate": "05-21-1801",
+    "title": "Price",
+    "author": "Mr. Kevin Hernandez",
+    "releaseDate": "06-22-1929",
+    "description": "Take physical though plan. Responsibility season shake its. Relate book above.",
     "genre": [
-      "Science Fiction",
-      "Dystopian"
+      "Children's"
     ],
-    "rating": 4.3,
-    "sales": 42236
+    "rating": 2.6,
+    "sales": 95580
   },
   {
     "id": 13,
-    "title": "The Count of Monte Cristo",
-    "author": "Emily Brontë",
-    "releaseDate": "11-02-1851",
+    "title": "Social reason sound human",
+    "author": "Brittney Williams",
+    "releaseDate": "10-16-1901",
+    "description": "Site over onto.\nCup song turn arrive. Although sister upon challenge pressure son.",
     "genre": [
-      "Dystopian",
-      "Fantasy"
+      "Fiction"
     ],
-    "rating": 3.9,
-    "sales": 79506
+    "rating": 2.8,
+    "sales": 73995
   },
   {
     "id": 14,
-    "title": "Jane Eyre",
-    "author": "F. Scott Fitzgerald",
-    "releaseDate": "03-25-1930",
+    "title": "Year laugh",
+    "author": "Todd Edwards",
+    "releaseDate": "04-08-2002",
+    "description": "Cause join successful. His education share form baby. Health always million police grow phone eat.",
     "genre": [
-      "Drama",
-      "Adventure"
+      "Mystery",
+      "Non-Fiction",
+      "Fiction"
     ],
-    "rating": 4.5,
-    "sales": 71659
+    "rating": 4.2,
+    "sales": 92318
   },
   {
     "id": 15,
-    "title": "Brave New World",
-    "author": "Homer",
-    "releaseDate": "07-14-1979",
+    "title": "Easy organization assume",
+    "author": "John Hamilton",
+    "releaseDate": "07-04-1988",
+    "description": "Face base spend run. Half campaign manage career interest price product. However look machine arm.",
     "genre": [
       "Science Fiction",
-      "Fantasy"
+      "Fiction",
+      "Romance"
     ],
-    "rating": 4.7,
-    "sales": 66351
+    "rating": 3.8,
+    "sales": 19619
   },
   {
     "id": 16,
-    "title": "The Great Gatsby",
-    "author": "Fyodor Dostoevsky",
-    "releaseDate": "12-01-1947",
+    "title": "Race",
+    "author": "Adrian Goodwin",
+    "releaseDate": "08-07-1879",
+    "description": "Prevent option laugh military do bad blue. Local most information second either would.",
     "genre": [
-      "Romance",
-      "Epic"
+      "Biography"
     ],
-    "rating": 4.4,
-    "sales": 38745
+    "rating": 4.2,
+    "sales": 56969
   },
   {
     "id": 17,
-    "title": "Frankenstein",
-    "author": "Harper Lee",
-    "releaseDate": "09-17-1826",
+    "title": "Cut consumer bill until",
+    "author": "Kevin Jefferson",
+    "releaseDate": "05-17-1880",
+    "description": "Once music purpose design treatment practice shake. Third after and again their than must.",
     "genre": [
-      "Gothic",
-      "Adventure"
+      "Fantasy"
     ],
-    "rating": 3.5,
-    "sales": 59034
+    "rating": 4.4,
+    "sales": 35320
   },
   {
     "id": 18,
-    "title": "The Iliad",
-    "author": "Leo Tolstoy",
-    "releaseDate": "05-04-1904",
+    "title": "Ever base",
+    "author": "Lauren Anderson",
+    "releaseDate": "11-06-1912",
+    "description": "Middle rest soon group mind feeling. Able argue job office modern. Building word hour receive.",
     "genre": [
-      "Fantasy",
-      "Science Fiction"
+      "Fantasy"
     ],
-    "rating": 3.7,
-    "sales": 28589
+    "rating": 2.1,
+    "sales": 2491
   },
   {
     "id": 19,
-    "title": "The Odyssey",
-    "author": "Joseph Heller",
-    "releaseDate": "05-30-1938",
+    "title": "High give television",
+    "author": "Tristan Porter",
+    "releaseDate": "06-03-1964",
+    "description": "Ask real bed two budget senior. Five also material ask.",
     "genre": [
-      "Mystery",
-      "Horror"
+      "Fiction"
     ],
-    "rating": 3.7,
-    "sales": 75892
+    "rating": 3.0,
+    "sales": 91866
   },
   {
     "id": 20,
-    "title": "The Great Gatsby",
-    "author": "F. Scott Fitzgerald",
-    "releaseDate": "05-25-1957",
+    "title": "South party yet",
+    "author": "Joshua Williams",
+    "releaseDate": "01-14-1922",
+    "description": "Money notice enter.",
     "genre": [
-      "Classic",
-      "Mystery"
+      "Fantasy"
     ],
-    "rating": 4.6,
-    "sales": 54812
+    "rating": 4.9,
+    "sales": 98439
   },
   {
     "id": 21,
-    "title": "Wuthering Heights",
-    "author": "Charles Dickens",
-    "releaseDate": "04-02-1927",
+    "title": "Prove thing",
+    "author": "Marie Charles",
+    "releaseDate": "03-27-1980",
+    "description": "Property project owner.\nCourt next avoid computer should. Short new past sense where exist.",
     "genre": [
       "Children's",
-      "Classic"
+      "Fiction",
+      "Non-Fiction"
     ],
-    "rating": 4.2,
-    "sales": 47814
+    "rating": 2.9,
+    "sales": 8713
   },
   {
     "id": 22,
-    "title": "The Picture of Dorian Gray",
-    "author": "Homer",
-    "releaseDate": "05-01-1852",
+    "title": "Who hospital late",
+    "author": "Wesley Brown",
+    "releaseDate": "10-08-1965",
+    "description": "Occur store technology show song listen. Determine pattern special fact.",
     "genre": [
-      "Dystopian",
-      "Adventure"
+      "Children's",
+      "Science Fiction"
     ],
-    "rating": 4.8,
-    "sales": 79796
+    "rating": 2.4,
+    "sales": 63904
   },
   {
     "id": 23,
-    "title": "Don Quixote",
-    "author": "Homer",
-    "releaseDate": "12-25-2008",
+    "title": "Go practice",
+    "author": "Chelsea Mccoy",
+    "releaseDate": "04-04-1991",
+    "description": "Above accept feel another wait. Bring economy impact fund firm stop ago.",
     "genre": [
-      "Adventure",
-      "Science Fiction"
+      "Children's"
     ],
-    "rating": 4.4,
-    "sales": 77301
+    "rating": 2.9,
+    "sales": 75832
   },
   {
     "id": 24,
-    "title": "Les Misérables",
-    "author": "Mary Shelley",
-    "releaseDate": "05-23-1950",
+    "title": "Some yet",
+    "author": "Taylor Cruz",
+    "releaseDate": "06-08-1988",
+    "description": "Wait interview there relate. Economy crime that win upon challenge.",
     "genre": [
-      "Epic",
-      "Classic"
+      "Fantasy",
+      "Historical",
+      "Fiction"
     ],
-    "rating": 4.8,
-    "sales": 41466
+    "rating": 3.3,
+    "sales": 2035
   },
   {
     "id": 25,
-    "title": "Frankenstein",
-    "author": "Oscar Wilde",
-    "releaseDate": "11-07-1836",
+    "title": "Old threat sit",
+    "author": "Kristin Evans",
+    "releaseDate": "04-03-2003",
+    "description": "Eight inside material early young of along. Note hand million whose indicate buy six.",
     "genre": [
-      "Epic",
-      "Mystery"
+      "Romance"
     ],
-    "rating": 3.7,
-    "sales": 35957
+    "rating": 4.7,
+    "sales": 7882
   },
   {
     "id": 26,
-    "title": "Jane Eyre",
-    "author": "F. Scott Fitzgerald",
-    "releaseDate": "11-22-1866",
+    "title": "Break",
+    "author": "Jonathan Lin",
+    "releaseDate": "03-23-1951",
+    "description": "Foot yeah senior thousand.\nInformation with issue truth kid power. Accept place positive.",
     "genre": [
-      "Romance",
+      "Non-Fiction",
       "Science Fiction"
     ],
-    "rating": 4.2,
-    "sales": 67615
+    "rating": 4.8,
+    "sales": 42811
   },
   {
     "id": 27,
-    "title": "Heart of Darkness",
-    "author": "Alexandre Dumas",
-    "releaseDate": "07-13-1984",
+    "title": "Place or education",
+    "author": "Tyler Kirk",
+    "releaseDate": "12-02-1983",
+    "description": "Different others join key. Exist whose perform sit. Only enter western white environmental.",
     "genre": [
-      "Epic",
-      "Fantasy"
+      "Non-Fiction",
+      "Historical"
     ],
-    "rating": 4.0,
-    "sales": 50380
+    "rating": 2.7,
+    "sales": 12563
   },
   {
     "id": 28,
-    "title": "Frankenstein",
-    "author": "Alexandre Dumas",
-    "releaseDate": "03-14-1898",
+    "title": "Which sing kind civil",
+    "author": "Andrew Alexander",
+    "releaseDate": "03-02-2014",
+    "description": "Side talk bring piece assume maintain trip. Never ready approach.",
     "genre": [
-      "Adventure",
-      "Historical"
+      "Fantasy",
+      "Biography"
     ],
-    "rating": 4.5,
-    "sales": 79699
+    "rating": 3.2,
+    "sales": 89409
   },
   {
     "id": 29,
-    "title": "The Great Gatsby",
-    "author": "Harper Lee",
-    "releaseDate": "09-24-1916",
+    "title": "Cell mission",
+    "author": "Jennifer Boyle",
+    "releaseDate": "02-12-1960",
+    "description": "Generation summer out attorney wonder.",
     "genre": [
-      "Horror",
-      "Epic"
+      "Fantasy",
+      "Romance",
+      "Children's"
     ],
-    "rating": 4.4,
-    "sales": 23886
+    "rating": 1.5,
+    "sales": 50261
   },
   {
     "id": 30,
-    "title": "The Count of Monte Cristo",
-    "author": "Joseph Heller",
-    "releaseDate": "10-01-1829",
+    "title": "Break budget peace",
+    "author": "Billy Boyd",
+    "releaseDate": "11-06-1945",
+    "description": "Magazine else throughout scene. Learn professional behavior within.",
     "genre": [
-      "Philosophical",
-      "Philosophical"
+      "Science Fiction"
     ],
-    "rating": 3.8,
-    "sales": 52683
+    "rating": 2.3,
+    "sales": 57199
   },
   {
     "id": 31,
-    "title": "A Tale of Two Cities",
-    "author": "Herman Melville",
-    "releaseDate": "05-26-1965",
+    "title": "Attack almost explain or",
+    "author": "Troy Wilson",
+    "releaseDate": "07-27-2012",
+    "description": "National upon oil within wide bring citizen. Think article water somebody.",
     "genre": [
-      "Science Fiction",
-      "Romance"
+      "Fiction"
     ],
-    "rating": 3.6,
-    "sales": 79525
+    "rating": 4.0,
+    "sales": 99254
   },
   {
     "id": 32,
-    "title": "The Count of Monte Cristo",
-    "author": "Emily Brontë",
-    "releaseDate": "03-21-1970",
+    "title": "Natural try share once",
+    "author": "John Henderson",
+    "releaseDate": "09-09-2010",
+    "description": "Eight room word the one majority. Yeah member top amount college her. World ask industry.",
     "genre": [
-      "Gothic",
-      "Science Fiction"
+      "Biography",
+      "Thriller"
     ],
-    "rating": 3.8,
-    "sales": 60563
+    "rating": 1.8,
+    "sales": 47556
   },
   {
     "id": 33,
-    "title": "A Tale of Two Cities",
-    "author": "George Orwell",
-    "releaseDate": "08-10-1906",
+    "title": "So cell purpose",
+    "author": "Thomas Flores",
+    "releaseDate": "05-22-1915",
+    "description": "Piece surface study interesting only year.",
     "genre": [
-      "Philosophical",
-      "Mystery"
+      "Historical",
+      "Children's"
     ],
-    "rating": 4.0,
-    "sales": 70552
+    "rating": 3.4,
+    "sales": 51296
   },
   {
     "id": 34,
-    "title": "Pride and Prejudice",
-    "author": "Fyodor Dostoevsky",
-    "releaseDate": "11-10-1815",
+    "title": "Through money music that",
+    "author": "Brent Richards",
+    "releaseDate": "09-08-2006",
+    "description": "View production could church win better chair defense. Hospital really close worker.",
     "genre": [
-      "Adventure",
-      "Adventure"
+      "Science Fiction",
+      "Non-Fiction",
+      "Mystery"
     ],
-    "rating": 3.5,
-    "sales": 54644
+    "rating": 1.4,
+    "sales": 22968
   },
   {
     "id": 35,
-    "title": "Frankenstein",
-    "author": "F. Scott Fitzgerald",
-    "releaseDate": "01-19-1996",
+    "title": "Movie",
+    "author": "Martin Pena",
+    "releaseDate": "04-02-1981",
+    "description": "Plan health especially mention his fight. Out force really young idea. Or perform activity.",
     "genre": [
-      "Mystery",
-      "Gothic"
+      "Thriller",
+      "Romance",
+      "Fantasy"
     ],
-    "rating": 4.0,
-    "sales": 30303
+    "rating": 2.2,
+    "sales": 40619
   },
   {
     "id": 36,
-    "title": "Jane Eyre",
-    "author": "Arthur Conan Doyle",
-    "releaseDate": "10-01-1817",
+    "title": "Mrs term",
+    "author": "Laura Johnson",
+    "releaseDate": "10-23-1929",
+    "description": "Official however pass. Side else ability always news trip. Raise record turn white them want.",
     "genre": [
-      "Drama",
-      "Epic"
+      "Biography"
     ],
-    "rating": 4.8,
-    "sales": 43487
+    "rating": 4.4,
+    "sales": 28850
   },
   {
     "id": 37,
-    "title": "Brave New World",
-    "author": "Alexandre Dumas",
-    "releaseDate": "04-12-1830",
+    "title": "Quality star",
+    "author": "Barbara Murphy",
+    "releaseDate": "07-29-2007",
+    "description": "For chair language tax eye type. Capital yes food enough successful understand senior into.",
     "genre": [
-      "Horror",
-      "Gothic"
+      "Children's",
+      "Science Fiction"
     ],
-    "rating": 4.5,
-    "sales": 38098
+    "rating": 2.2,
+    "sales": 12393
   },
   {
     "id": 38,
-    "title": "Dracula",
-    "author": "Charlotte Brontë",
-    "releaseDate": "01-28-1890",
+    "title": "Pull service",
+    "author": "Jessica Moore",
+    "releaseDate": "03-03-1917",
+    "description": "Guess concern whether moment. Hotel politics lawyer leave play majority.",
     "genre": [
-      "Epic",
-      "Drama"
+      "Fantasy",
+      "Science Fiction"
     ],
-    "rating": 4.6,
-    "sales": 13909
+    "rating": 1.1,
+    "sales": 21160
   },
   {
     "id": 39,
-    "title": "The Brothers Karamazov",
-    "author": "Charlotte Brontë",
-    "releaseDate": "11-07-1918",
+    "title": "Movie catch son",
+    "author": "Ashley Peters",
+    "releaseDate": "03-21-2014",
+    "description": "Clear machine offer so. Tell age discuss fear indeed.",
     "genre": [
-      "Horror",
-      "Drama"
+      "Biography",
+      "Romance"
     ],
-    "rating": 4.9,
-    "sales": 40808
+    "rating": 2.6,
+    "sales": 44642
   },
   {
     "id": 40,
-    "title": "The Count of Monte Cristo",
-    "author": "Herman Melville",
-    "releaseDate": "09-06-1832",
+    "title": "Account national",
+    "author": "Brandon Jones",
+    "releaseDate": "04-16-1960",
+    "description": "Education nation recognize day out provide. Same our crime their section.",
     "genre": [
-      "Dystopian",
-      "Mystery"
+      "Fantasy"
     ],
-    "rating": 3.5,
-    "sales": 10245
+    "rating": 1.2,
+    "sales": 24107
   },
   {
     "id": 41,
-    "title": "A Tale of Two Cities",
-    "author": "Alexandre Dumas",
-    "releaseDate": "09-17-1867",
+    "title": "Tax expect",
+    "author": "Dean Allison",
+    "releaseDate": "11-07-1988",
+    "description": "A marriage direction together painting nothing. Include to popular follow.",
     "genre": [
-      "Gothic",
-      "Philosophical"
+      "Biography",
+      "Thriller",
+      "Mystery"
     ],
-    "rating": 3.5,
-    "sales": 71336
+    "rating": 4.6,
+    "sales": 12160
   },
   {
     "id": 42,
-    "title": "Moby Dick",
-    "author": "Charles Dickens",
-    "releaseDate": "10-04-1800",
+    "title": "Simply politics fight",
+    "author": "Steven Williams",
+    "releaseDate": "03-27-1950",
+    "description": "Letter customer raise resource.",
     "genre": [
+      "Historical",
       "Mystery",
-      "Epic"
+      "Non-Fiction"
     ],
-    "rating": 3.8,
-    "sales": 71731
+    "rating": 3.0,
+    "sales": 52882
   },
   {
     "id": 43,
-    "title": "Anna Karenina",
-    "author": "Jane Austen",
-    "releaseDate": "03-03-1824",
+    "title": "Nation of agent",
+    "author": "Patricia Roman",
+    "releaseDate": "09-27-1923",
+    "description": "Reveal nature story the perform.\nNational someone understand mention.",
     "genre": [
-      "Drama",
-      "Drama"
+      "Fiction",
+      "Thriller"
     ],
-    "rating": 4.1,
-    "sales": 74668
+    "rating": 4.4,
+    "sales": 70185
   },
   {
     "id": 44,
-    "title": "Heart of Darkness",
-    "author": "George Orwell",
-    "releaseDate": "12-23-1996",
+    "title": "Provide opportunity",
+    "author": "Michael Jenkins",
+    "releaseDate": "11-23-1970",
+    "description": "Seven fill ever. Expert eight government realize someone why conference.",
     "genre": [
-      "Drama",
-      "Philosophical"
+      "Fiction",
+      "Science Fiction"
     ],
-    "rating": 4.6,
-    "sales": 54552
+    "rating": 1.4,
+    "sales": 89374
   },
   {
     "id": 45,
-    "title": "Moby Dick",
-    "author": "F. Scott Fitzgerald",
-    "releaseDate": "12-21-1895",
+    "title": "Reduce test large",
+    "author": "David Ramos",
+    "releaseDate": "07-16-1968",
+    "description": "Nothing themselves gas fish community agree. Memory brother wait.",
     "genre": [
-      "Horror",
-      "Dystopian"
+      "Fiction"
     ],
-    "rating": 3.6,
-    "sales": 22274
+    "rating": 1.6,
+    "sales": 14175
   },
   {
     "id": 46,
-    "title": "Les Misérables",
-    "author": "Oscar Wilde",
-    "releaseDate": "09-14-1991",
+    "title": "Everything",
+    "author": "Katherine Mitchell",
+    "releaseDate": "11-05-1927",
+    "description": "Concern all doctor nothing physical. Free majority describe past.",
     "genre": [
-      "Dystopian",
-      "Horror"
+      "Fantasy",
+      "Biography",
+      "Non-Fiction"
     ],
-    "rating": 4.3,
-    "sales": 69661
+    "rating": 1.9,
+    "sales": 23038
   },
   {
     "id": 47,
-    "title": "Pride and Prejudice",
-    "author": "Mary Shelley",
-    "releaseDate": "06-05-1904",
+    "title": "Result only claim",
+    "author": "Joshua Bowen",
+    "releaseDate": "10-08-1958",
+    "description": "Person boy likely tax. Put remain number statement professional.",
     "genre": [
-      "Fantasy",
-      "Dystopian"
+      "Mystery",
+      "Non-Fiction"
     ],
-    "rating": 4.1,
-    "sales": 72082
+    "rating": 2.3,
+    "sales": 15254
   },
   {
     "id": 48,
-    "title": "Catch-22",
-    "author": "Mary Shelley",
-    "releaseDate": "10-03-1867",
+    "title": "Support tend shoulder",
+    "author": "Kenneth Phelps",
+    "releaseDate": "01-12-1902",
+    "description": "Try ground report receive that during. They order make.",
     "genre": [
-      "Dystopian",
-      "Historical"
+      "Historical",
+      "Fiction"
     ],
-    "rating": 4.4,
-    "sales": 76827
+    "rating": 1.9,
+    "sales": 31448
   },
   {
     "id": 49,
-    "title": "Brave New World",
-    "author": "Emily Brontë",
-    "releaseDate": "01-01-1957",
+    "title": "That director",
+    "author": "Jerry Anderson",
+    "releaseDate": "11-05-1972",
+    "description": "Hand manage effort interesting provide community nothing. Land stop central occur early light some.",
     "genre": [
-      "Science Fiction",
-      "Fantasy"
+      "Children's",
+      "Thriller",
+      "Fiction"
     ],
-    "rating": 4.9,
-    "sales": 67029
+    "rating": 2.3,
+    "sales": 80571
   },
   {
     "id": 50,
-    "title": "The Adventures of Sherlock Holmes",
-    "author": "Charlotte Brontë",
-    "releaseDate": "03-18-1941",
+    "title": "Career describe",
+    "author": "Christopher Jones",
+    "releaseDate": "03-01-2014",
+    "description": "Moment someone whom our. Marriage attention old sister add section line. Second people line.",
     "genre": [
-      "Historical",
-      "Children's"
+      "Fiction"
     ],
-    "rating": 3.9,
-    "sales": 75545
+    "rating": 3.7,
+    "sales": 45588
   },
   {
     "id": 51,
-    "title": "The Count of Monte Cristo",
-    "author": "Emily Brontë",
-    "releaseDate": "11-26-1826",
+    "title": "In yes according",
+    "author": "Courtney Jones",
+    "releaseDate": "09-26-1923",
+    "description": "List within miss put feeling. Job together a discover. Read camera raise million expect.",
     "genre": [
-      "Horror",
-      "Adventure"
+      "Biography",
+      "Fiction"
     ],
-    "rating": 4.2,
-    "sales": 22957
+    "rating": 2.9,
+    "sales": 51318
   },
   {
     "id": 52,
-    "title": "The Count of Monte Cristo",
-    "author": "Gabriel García Márquez",
-    "releaseDate": "03-13-1869",
+    "title": "Seven anyone see",
+    "author": "William Savage",
+    "releaseDate": "06-11-1932",
+    "description": "We thousand create management.",
     "genre": [
-      "Gothic",
-      "Adventure"
+      "Thriller",
+      "Science Fiction"
     ],
-    "rating": 3.7,
-    "sales": 11401
+    "rating": 3.5,
+    "sales": 14869
   },
   {
     "id": 53,
-    "title": "Wuthering Heights",
-    "author": "Charlotte Brontë",
-    "releaseDate": "01-23-1866",
+    "title": "Worry mother leave",
+    "author": "Jonathan Garza",
+    "releaseDate": "11-29-1884",
+    "description": "Model street travel country option town memory.",
     "genre": [
-      "Classic",
-      "Mystery"
+      "Children's",
+      "Fiction"
     ],
-    "rating": 4.8,
-    "sales": 52673
+    "rating": 2.2,
+    "sales": 47319
   },
   {
     "id": 54,
-    "title": "Great Expectations",
-    "author": "Oscar Wilde",
-    "releaseDate": "05-07-1972",
+    "title": "Change theory fire",
+    "author": "Mindy Peterson",
+    "releaseDate": "09-01-1888",
+    "description": "Leader truth always human they behavior purpose child. Budget safe wish fall.",
     "genre": [
-      "Dystopian",
-      "Fantasy"
+      "Fantasy",
+      "Mystery"
     ],
-    "rating": 3.6,
-    "sales": 14269
+    "rating": 1.0,
+    "sales": 73049
   },
   {
     "id": 55,
-    "title": "The Picture of Dorian Gray",
-    "author": "Harper Lee",
-    "releaseDate": "09-22-1922",
+    "title": "During up key",
+    "author": "Jason Martin",
+    "releaseDate": "02-26-1978",
+    "description": "Decision none finish I citizen.",
     "genre": [
-      "Adventure",
       "Romance"
     ],
-    "rating": 4.5,
-    "sales": 79342
+    "rating": 1.7,
+    "sales": 7409
   },
   {
     "id": 56,
-    "title": "The Odyssey",
-    "author": "Homer",
-    "releaseDate": "04-20-1856",
+    "title": "Either pass chance",
+    "author": "Barbara Lopez",
+    "releaseDate": "02-01-1968",
+    "description": "Choice you put meet friend.",
     "genre": [
-      "Gothic",
-      "Children's"
+      "Biography",
+      "Mystery",
+      "Romance"
     ],
     "rating": 4.3,
-    "sales": 38418
+    "sales": 5882
   },
   {
     "id": 57,
-    "title": "Brave New World",
-    "author": "Arthur Conan Doyle",
-    "releaseDate": "04-06-1992",
+    "title": "Begin participant",
+    "author": "Christopher Harris",
+    "releaseDate": "07-26-1942",
+    "description": "Officer team usually. Process wife PM allow.",
     "genre": [
-      "Philosophical",
-      "Children's"
+      "Fiction",
+      "Thriller",
+      "Fantasy"
     ],
-    "rating": 4.9,
-    "sales": 75583
+    "rating": 4.6,
+    "sales": 62800
   },
   {
     "id": 58,
-    "title": "1984",
-    "author": "Aldous Huxley",
-    "releaseDate": "02-25-1855",
+    "title": "Yeah agency party",
+    "author": "Albert Duffy",
+    "releaseDate": "09-08-1940",
+    "description": "Kind conference project. Whatever if unit Mrs thing list stuff arm.",
     "genre": [
-      "Fantasy",
-      "Mystery"
+      "Thriller",
+      "Romance",
+      "Fiction"
     ],
-    "rating": 4.6,
-    "sales": 72761
+    "rating": 1.4,
+    "sales": 22917
   },
   {
     "id": 59,
-    "title": "Frankenstein",
-    "author": "George Orwell",
-    "releaseDate": "10-04-1861",
+    "title": "Size available character purpose",
+    "author": "Laurie Davis",
+    "releaseDate": "07-25-1924",
+    "description": "Lead his building commercial practice. Also food also sense off enter.",
     "genre": [
-      "Epic",
-      "Philosophical"
+      "Fantasy"
     ],
-    "rating": 4.8,
-    "sales": 37007
+    "rating": 1.6,
+    "sales": 60139
   },
   {
     "id": 60,
-    "title": "A Tale of Two Cities",
-    "author": "Charlotte Brontë",
-    "releaseDate": "07-01-1844",
+    "title": "Here itself",
+    "author": "Jamie Miles",
+    "releaseDate": "07-08-1985",
+    "description": "Environmental question enter support. Sing whole world open.",
     "genre": [
-      "Dystopian",
-      "Adventure"
+      "Mystery",
+      "Fiction"
     ],
-    "rating": 4.4,
-    "sales": 47371
+    "rating": 2.1,
+    "sales": 42662
   },
   {
     "id": 61,
-    "title": "The Great Gatsby",
-    "author": "F. Scott Fitzgerald",
-    "releaseDate": "10-14-1996",
+    "title": "Admit agree",
+    "author": "Jessica Middleton",
+    "releaseDate": "05-15-1998",
+    "description": "Full particular feel quality. Brother pick move to. Happy eat almost improve.",
     "genre": [
-      "Philosophical",
-      "Mystery"
+      "Historical",
+      "Fiction",
+      "Science Fiction"
     ],
-    "rating": 4.1,
-    "sales": 44059
+    "rating": 4.5,
+    "sales": 76830
   },
   {
     "id": 62,
-    "title": "Moby Dick",
-    "author": "Charlotte Brontë",
-    "releaseDate": "08-04-1836",
+    "title": "Yet speech suffer style",
+    "author": "Wendy Woodard",
+    "releaseDate": "01-19-2014",
+    "description": "Compare business wonder. Cause hit later young pattern Republican by.",
     "genre": [
-      "Gothic",
-      "Dystopian"
+      "Romance",
+      "Science Fiction"
     ],
-    "rating": 4.9,
-    "sales": 40435
+    "rating": 1.1,
+    "sales": 8149
   },
   {
     "id": 63,
-    "title": "Catch-22",
-    "author": "Leo Tolstoy",
-    "releaseDate": "09-17-1965",
+    "title": "Live difference",
+    "author": "Shawn Bradley",
+    "releaseDate": "01-01-1938",
+    "description": "Evidence so agree put partner miss head. Operation crime always unit nor.",
     "genre": [
-      "Philosophical",
-      "Horror"
+      "Mystery",
+      "Non-Fiction",
+      "Thriller"
     ],
-    "rating": 3.7,
-    "sales": 13971
+    "rating": 3.4,
+    "sales": 57309
   },
   {
     "id": 64,
-    "title": "Brave New World",
-    "author": "Charlotte Brontë",
-    "releaseDate": "03-18-1905",
+    "title": "Such bill you",
+    "author": "Frederick Wolf",
+    "releaseDate": "02-07-1929",
+    "description": "Which fire social human.",
     "genre": [
-      "Epic",
-      "Horror"
+      "Thriller",
+      "Historical",
+      "Mystery"
     ],
-    "rating": 4.3,
-    "sales": 20422
+    "rating": 3.2,
+    "sales": 27130
   },
   {
     "id": 65,
-    "title": "Catch-22",
-    "author": "Charles Dickens",
-    "releaseDate": "08-31-1814",
+    "title": "Financial audience",
+    "author": "Sarah Martinez",
+    "releaseDate": "03-31-1934",
+    "description": "Herself nothing trade loss. Group water address number wish view simply.",
     "genre": [
-      "Horror",
-      "Mystery"
+      "Historical",
+      "Non-Fiction"
     ],
-    "rating": 4.0,
-    "sales": 35570
+    "rating": 5.0,
+    "sales": 31048
   },
   {
     "id": 66,
-    "title": "Brave New World",
-    "author": "Charlotte Brontë",
-    "releaseDate": "05-21-1925",
+    "title": "Current management",
+    "author": "James Pierce",
+    "releaseDate": "02-20-1978",
+    "description": "Look never individual large live. Quickly hope cause. Employee should race occur.",
     "genre": [
-      "Science Fiction",
-      "Historical"
+      "Non-Fiction"
     ],
-    "rating": 5.0,
-    "sales": 42111
+    "rating": 4.5,
+    "sales": 8603
   },
   {
     "id": 67,
-    "title": "Heart of Darkness",
-    "author": "George Orwell",
-    "releaseDate": "05-11-1936",
+    "title": "House enough",
+    "author": "Dr. Michael Simmons",
+    "releaseDate": "10-27-2007",
+    "description": "Role billion left success list measure candidate. Section himself idea year.",
     "genre": [
-      "Gothic",
-      "Adventure"
+      "Historical",
+      "Science Fiction"
     ],
-    "rating": 4.1,
-    "sales": 21863
+    "rating": 1.0,
+    "sales": 15271
   },
   {
     "id": 68,
-    "title": "The Picture of Dorian Gray",
-    "author": "Aldous Huxley",
-    "releaseDate": "09-06-1829",
+    "title": "Already hand or in",
+    "author": "Victoria Coleman",
+    "releaseDate": "07-17-1928",
+    "description": "Marriage task soldier. Bit country her success school happy base hot.",
     "genre": [
+      "Biography",
       "Fantasy",
-      "Dystopian"
+      "Mystery"
     ],
-    "rating": 4.1,
-    "sales": 67501
+    "rating": 3.7,
+    "sales": 5564
   },
   {
     "id": 69,
-    "title": "The Odyssey",
-    "author": "Alexandre Dumas",
-    "releaseDate": "09-21-1933",
+    "title": "Sound lot quickly",
+    "author": "Richard Clark",
+    "releaseDate": "03-29-1911",
+    "description": "Society she sign address commercial agree kid.\nDemocratic claim memory must throughout.",
     "genre": [
-      "Gothic",
-      "Children's"
+      "Thriller"
     ],
-    "rating": 4.8,
-    "sales": 48682
+    "rating": 1.7,
+    "sales": 76871
   },
   {
     "id": 70,
-    "title": "A Tale of Two Cities",
-    "author": "Leo Tolstoy",
-    "releaseDate": "11-03-1996",
+    "title": "Her sure but write",
+    "author": "Michael Kelly",
+    "releaseDate": "05-19-1908",
+    "description": "Edge sister room resource fill. Should strong father wear.",
     "genre": [
-      "Horror",
-      "Philosophical"
+      "Children's",
+      "Non-Fiction",
+      "Romance"
     ],
-    "rating": 3.8,
-    "sales": 29603
+    "rating": 1.3,
+    "sales": 80164
   },
   {
     "id": 71,
-    "title": "The Great Gatsby",
-    "author": "Harper Lee",
-    "releaseDate": "08-23-1949",
+    "title": "Similar TV must",
+    "author": "Julie Lee",
+    "releaseDate": "08-26-1877",
+    "description": "City bring concern school number and long. While realize rock project them blue. Public movie we.",
     "genre": [
-      "Adventure",
+      "Non-Fiction",
+      "Fiction",
       "Historical"
     ],
-    "rating": 3.6,
-    "sales": 54222
+    "rating": 3.8,
+    "sales": 38125
   },
   {
     "id": 72,
-    "title": "Les Misérables",
-    "author": "Fyodor Dostoevsky",
-    "releaseDate": "11-08-1864",
+    "title": "Take campaign",
+    "author": "Jared Chambers",
+    "releaseDate": "06-15-1880",
+    "description": "Any reality lead particularly. Question cover value student everyone.",
     "genre": [
-      "Epic",
-      "Drama"
+      "Fiction",
+      "Mystery"
     ],
-    "rating": 4.0,
-    "sales": 13533
+    "rating": 2.0,
+    "sales": 41930
   },
   {
     "id": 73,
-    "title": "The Odyssey",
-    "author": "Gabriel García Márquez",
-    "releaseDate": "12-19-1842",
+    "title": "Similar",
+    "author": "Andrew Bradley",
+    "releaseDate": "01-18-1938",
+    "description": "Red ahead dark artist the scene this before. Letter little officer.",
     "genre": [
-      "Science Fiction",
-      "Philosophical"
+      "Romance",
+      "Non-Fiction",
+      "Historical"
     ],
-    "rating": 4.8,
-    "sales": 27005
+    "rating": 3.0,
+    "sales": 44627
   },
   {
     "id": 74,
-    "title": "Brave New World",
-    "author": "Arthur Conan Doyle",
-    "releaseDate": "05-27-1913",
+    "title": "Wind compare",
+    "author": "Daisy Reed",
+    "releaseDate": "10-25-1905",
+    "description": "Ability for according he. Other east build purpose.",
     "genre": [
-      "Dystopian",
-      "Philosophical"
+      "Thriller"
     ],
-    "rating": 4.8,
-    "sales": 79430
+    "rating": 2.0,
+    "sales": 37968
   },
   {
     "id": 75,
-    "title": "Don Quixote",
-    "author": "Oscar Wilde",
-    "releaseDate": "02-22-1824",
+    "title": "Society resource",
+    "author": "Richard Stanley",
+    "releaseDate": "08-26-1941",
+    "description": "Task court have keep. Maybe reveal recognize.",
     "genre": [
-      "Mystery",
-      "Drama"
+      "Non-Fiction",
+      "Fiction"
     ],
-    "rating": 3.7,
-    "sales": 21545
+    "rating": 2.3,
+    "sales": 3005
   },
   {
     "id": 76,
-    "title": "Jane Eyre",
-    "author": "Aldous Huxley",
-    "releaseDate": "07-30-1910",
+    "title": "Someone plant",
+    "author": "Anna Ross",
+    "releaseDate": "10-30-1966",
+    "description": "Red look subject. Plant nation face east writer meeting use. Memory worry born important.",
     "genre": [
-      "Drama",
-      "Adventure"
+      "Mystery",
+      "Children's",
+      "Fiction"
     ],
-    "rating": 4.1,
-    "sales": 40546
+    "rating": 2.0,
+    "sales": 98521
   },
   {
     "id": 77,
-    "title": "Catch-22",
-    "author": "Oscar Wilde",
-    "releaseDate": "07-06-1822",
+    "title": "That expect take",
+    "author": "Michael Carter",
+    "releaseDate": "05-02-1895",
+    "description": "Size leg leave cup. Instead billion Democrat very only later sense goal. Music answer claim.",
     "genre": [
-      "Gothic",
-      "Dystopian"
+      "Mystery",
+      "Biography",
+      "Science Fiction"
     ],
-    "rating": 4.7,
-    "sales": 46571
+    "rating": 4.9,
+    "sales": 64518
   },
   {
     "id": 78,
-    "title": "Crime and Punishment",
-    "author": "Harper Lee",
-    "releaseDate": "06-07-1948",
+    "title": "Type write responsibility",
+    "author": "John Mcclain",
+    "releaseDate": "05-17-2000",
+    "description": "Real produce speak maybe. Though see maybe follow every sort.",
     "genre": [
-      "Science Fiction",
-      "Dystopian"
+      "Mystery"
     ],
-    "rating": 3.6,
-    "sales": 57863
+    "rating": 3.1,
+    "sales": 81102
   },
   {
     "id": 79,
-    "title": "1984",
-    "author": "Aldous Huxley",
-    "releaseDate": "01-23-1880",
+    "title": "Avoid again",
+    "author": "Jessica Johnson",
+    "releaseDate": "03-07-1985",
+    "description": "Dog heart alone you pick. School itself turn realize.",
     "genre": [
-      "Epic",
-      "Dystopian"
+      "Science Fiction",
+      "Non-Fiction",
+      "Biography"
     ],
-    "rating": 4.0,
-    "sales": 46662
+    "rating": 4.7,
+    "sales": 29226
   },
   {
     "id": 80,
-    "title": "1984",
-    "author": "Oscar Wilde",
-    "releaseDate": "11-12-1924",
+    "title": "Tax million business",
+    "author": "Kathleen Bright",
+    "releaseDate": "06-23-2015",
+    "description": "Across some success bill stop. Manage agreement hit test stop myself media bar.",
     "genre": [
-      "Historical",
-      "Science Fiction"
+      "Children's",
+      "Thriller"
     ],
-    "rating": 3.6,
-    "sales": 52957
+    "rating": 2.4,
+    "sales": 62864
   },
   {
     "id": 81,
-    "title": "The Brothers Karamazov",
-    "author": "Mary Shelley",
-    "releaseDate": "09-23-1954",
+    "title": "Whose ever",
+    "author": "Matthew Foster",
+    "releaseDate": "04-20-1903",
+    "description": "Size season plan the treatment place large.",
     "genre": [
-      "Drama",
-      "Science Fiction"
+      "Children's"
     ],
-    "rating": 4.8,
-    "sales": 44748
+    "rating": 2.2,
+    "sales": 25700
   },
   {
     "id": 82,
-    "title": "To Kill a Mockingbird",
-    "author": "Fyodor Dostoevsky",
-    "releaseDate": "03-25-1875",
+    "title": "Risk",
+    "author": "Lisa Carpenter",
+    "releaseDate": "05-17-1968",
+    "description": "Indicate adult group first director. Also claim hotel name whom.",
     "genre": [
-      "Horror",
-      "Fantasy"
+      "Fantasy",
+      "Fiction",
+      "Romance"
     ],
-    "rating": 3.7,
-    "sales": 68078
+    "rating": 1.9,
+    "sales": 68061
   },
   {
     "id": 83,
-    "title": "Moby Dick",
-    "author": "Charlotte Brontë",
-    "releaseDate": "03-12-1896",
+    "title": "West ever wide",
+    "author": "Renee Griffin",
+    "releaseDate": "04-04-1975",
+    "description": "College whom among career until. State teacher happen pressure their create.",
     "genre": [
-      "Romance",
-      "Drama"
+      "Mystery",
+      "Romance"
     ],
-    "rating": 4.0,
-    "sales": 24166
+    "rating": 1.1,
+    "sales": 96215
   },
   {
     "id": 84,
-    "title": "The Brothers Karamazov",
-    "author": "Arthur Conan Doyle",
-    "releaseDate": "08-27-1894",
+    "title": "Hotel service beautiful",
+    "author": "Karina Norton",
+    "releaseDate": "01-13-1951",
+    "description": "Look what coach significant. Serious while quickly pressure effect. Public through operation.",
     "genre": [
-      "Philosophical",
-      "Fantasy"
+      "Romance",
+      "Fiction",
+      "Non-Fiction"
     ],
-    "rating": 4.6,
-    "sales": 48732
+    "rating": 3.0,
+    "sales": 59073
   },
   {
     "id": 85,
-    "title": "Pride and Prejudice",
-    "author": "Aldous Huxley",
-    "releaseDate": "05-21-1842",
+    "title": "Look Mr our",
+    "author": "Bianca Moon",
+    "releaseDate": "07-27-1960",
+    "description": "Significant television data fine. Country little choice drop. Despite make number land store.",
     "genre": [
-      "Historical",
-      "Philosophical"
+      "Romance",
+      "Mystery"
     ],
-    "rating": 4.9,
-    "sales": 75165
+    "rating": 1.2,
+    "sales": 39255
   },
   {
     "id": 86,
-    "title": "The Adventures of Sherlock Holmes",
-    "author": "Alexandre Dumas",
-    "releaseDate": "08-21-1942",
+    "title": "Scene be apply",
+    "author": "Jason Erickson",
+    "releaseDate": "10-09-1896",
+    "description": "Sure decision far something service reach think.",
     "genre": [
-      "Gothic",
-      "Children's"
+      "Fantasy"
     ],
-    "rating": 4.2,
-    "sales": 68698
+    "rating": 3.4,
+    "sales": 76970
   },
   {
     "id": 87,
-    "title": "Catch-22",
-    "author": "Bram Stoker",
-    "releaseDate": "12-19-1856",
+    "title": "Professional base avoid",
+    "author": "Nicole Reed",
+    "releaseDate": "03-14-1925",
+    "description": "Language least free study stand visit participant. Wrong although middle carry.",
     "genre": [
-      "Epic",
-      "Historical"
+      "Children's",
+      "Thriller"
     ],
-    "rating": 3.6,
-    "sales": 60790
+    "rating": 2.9,
+    "sales": 30567
   },
   {
     "id": 88,
-    "title": "To Kill a Mockingbird",
-    "author": "Alexandre Dumas",
-    "releaseDate": "11-06-1992",
+    "title": "Can the fact",
+    "author": "Larry Armstrong",
+    "releaseDate": "07-22-1929",
+    "description": "To keep can. Two person computer push action admit media. Staff series only fine.",
     "genre": [
-      "Fantasy",
-      "Gothic"
+      "Romance"
     ],
-    "rating": 4.8,
-    "sales": 68123
+    "rating": 3.5,
+    "sales": 8672
   },
   {
     "id": 89,
-    "title": "The Adventures of Sherlock Holmes",
-    "author": "Gabriel García Márquez",
-    "releaseDate": "02-08-1928",
+    "title": "Machine we",
+    "author": "Kimberly Martinez",
+    "releaseDate": "10-09-1944",
+    "description": "Throughout series recently my. Building may development these.",
     "genre": [
-      "Fantasy",
-      "Mystery"
+      "Romance",
+      "Science Fiction"
     ],
-    "rating": 4.8,
-    "sales": 76950
+    "rating": 1.4,
+    "sales": 56330
   },
   {
     "id": 90,
-    "title": "1984",
-    "author": "Herman Melville",
-    "releaseDate": "06-29-2014",
+    "title": "Each various reason",
+    "author": "Joseph King",
+    "releaseDate": "05-01-1956",
+    "description": "Reduce political half with drive purpose term. Drop not him use officer.",
     "genre": [
-      "Children's",
-      "Romance"
+      "Historical"
     ],
-    "rating": 4.5,
-    "sales": 63336
+    "rating": 2.3,
+    "sales": 14843
   },
   {
     "id": 91,
-    "title": "Catch-22",
-    "author": "Jane Austen",
-    "releaseDate": "09-03-1828",
+    "title": "Out role one",
+    "author": "Ronald Noble",
+    "releaseDate": "10-03-1901",
+    "description": "Area little hot whether loss. Myself particularly air generation movie.",
     "genre": [
-      "Drama",
-      "Mystery"
+      "Non-Fiction",
+      "Science Fiction",
+      "Fantasy"
     ],
-    "rating": 3.7,
-    "sales": 30675
+    "rating": 4.9,
+    "sales": 58852
   },
   {
     "id": 92,
-    "title": "Dracula",
-    "author": "Alexandre Dumas",
-    "releaseDate": "09-04-1907",
+    "title": "Human",
+    "author": "John Washington",
+    "releaseDate": "02-03-1983",
+    "description": "After edge look result still task. Certain dinner company thing.",
     "genre": [
-      "Dystopian",
-      "Romance"
+      "Fantasy",
+      "Fiction"
     ],
     "rating": 4.7,
-    "sales": 61910
+    "sales": 6471
   },
   {
     "id": 93,
-    "title": "The Count of Monte Cristo",
-    "author": "Harper Lee",
-    "releaseDate": "12-13-1817",
+    "title": "Part almost sit",
+    "author": "Jennifer Reed",
+    "releaseDate": "05-22-1909",
+    "description": "Particular between enter. Article station because product its church.",
     "genre": [
       "Romance",
-      "Classic"
+      "Fiction"
     ],
-    "rating": 4.5,
-    "sales": 76264
+    "rating": 2.8,
+    "sales": 98402
   },
   {
     "id": 94,
-    "title": "The Picture of Dorian Gray",
-    "author": "F. Scott Fitzgerald",
-    "releaseDate": "01-26-1932",
+    "title": "Sing now score health",
+    "author": "Thomas Thornton",
+    "releaseDate": "11-23-2022",
+    "description": "Discussion above month magazine store. Wide vote picture try. Main you many hand hospital identify.",
     "genre": [
-      "Dystopian",
-      "Fantasy"
+      "Mystery"
     ],
-    "rating": 4.3,
-    "sales": 69417
+    "rating": 2.1,
+    "sales": 68424
   },
   {
     "id": 95,
-    "title": "The Brothers Karamazov",
-    "author": "Joseph Heller",
-    "releaseDate": "09-22-2010",
+    "title": "That ask record",
+    "author": "Barbara Ward",
+    "releaseDate": "03-13-1962",
+    "description": "Center approach amount me adult. Sign this wall result.",
     "genre": [
-      "Epic",
-      "Adventure"
-    ],
-    "rating": 4.7,
-    "sales": 65786
-  },
-  {
-    "id": 96,
-    "title": "The Odyssey",
-    "author": "Alexandre Dumas",
-    "releaseDate": "01-09-1815",
-    "genre": [
-      "Science Fiction",
-      "Historical"
-    ],
-    "rating": 5.0,
-    "sales": 39398
-  },
-  {
-    "id": 97,
-    "title": "The Picture of Dorian Gray",
-    "author": "Bram Stoker",
-    "releaseDate": "03-02-1901",
-    "genre": [
-      "Children's",
-      "Horror"
-    ],
-    "rating": 3.9,
-    "sales": 47847
-  },
-  {
-    "id": 98,
-    "title": "Frankenstein",
-    "author": "Alexandre Dumas",
-    "releaseDate": "04-18-1867",
-    "genre": [
-      "Science Fiction",
-      "Romance"
-    ],
-    "rating": 4.6,
-    "sales": 15201
-  },
-  {
-    "id": 99,
-    "title": "Heart of Darkness",
-    "author": "Jane Austen",
-    "releaseDate": "04-03-1937",
-    "genre": [
-      "Classic",
-      "Epic"
-    ],
-    "rating": 3.6,
-    "sales": 31630
-  },
-  {
-    "id": 100,
-    "title": "Dracula",
-    "author": "F. Scott Fitzgerald",
-    "releaseDate": "10-27-1940",
-    "genre": [
+      "Non-Fiction",
       "Romance",
       "Science Fiction"
     ],
+    "rating": 1.7,
+    "sales": 37482
+  },
+  {
+    "id": 96,
+    "title": "Particular generation instead",
+    "author": "Shelby Kirk",
+    "releaseDate": "12-31-1947",
+    "description": "Fall crime enough. Similar all day. Measure control nature room three Mrs.",
+    "genre": [
+      "Science Fiction"
+    ],
+    "rating": 4.3,
+    "sales": 74954
+  },
+  {
+    "id": 97,
+    "title": "Will already",
+    "author": "Damon Williams",
+    "releaseDate": "05-23-2022",
+    "description": "Source fill market answer as. Operation spend card spring.",
+    "genre": [
+      "Non-Fiction"
+    ],
+    "rating": 4.1,
+    "sales": 7567
+  },
+  {
+    "id": 98,
+    "title": "Too difference",
+    "author": "Sharon Roberts",
+    "releaseDate": "04-23-2008",
+    "description": "Create parent enter floor gas. Table decade wait.",
+    "genre": [
+      "Biography",
+      "Mystery"
+    ],
+    "rating": 4.7,
+    "sales": 84793
+  },
+  {
+    "id": 99,
+    "title": "Whole second above stage",
+    "author": "Todd Henson",
+    "releaseDate": "11-08-1999",
+    "description": "Small significant goal eat everything do conference. Husband process effect design.",
+    "genre": [
+      "Historical",
+      "Biography"
+    ],
+    "rating": 1.9,
+    "sales": 8235
+  },
+  {
+    "id": 100,
+    "title": "Course bill task",
+    "author": "Shawn Mathews",
+    "releaseDate": "04-18-1986",
+    "description": "Hand game grow reason. Often suddenly black tax sea your. East within move sometimes.",
+    "genre": [
+      "Fantasy",
+      "Historical",
+      "Fiction"
+    ],
+    "rating": 1.0,
+    "sales": 12808
+  },
+  {
+    "id": 101,
+    "title": "Might issue",
+    "author": "John Knight",
+    "releaseDate": "04-23-2004",
+    "description": "Candidate someone late stage people.",
+    "genre": [
+      "Biography"
+    ],
+    "rating": 1.6,
+    "sales": 74495
+  },
+  {
+    "id": 102,
+    "title": "Describe sell place",
+    "author": "Patrick Smith MD",
+    "releaseDate": "08-30-1991",
+    "description": "Crime too deal painting. Image her major product key. Father physical within own receive girl when.",
+    "genre": [
+      "Children's",
+      "Historical"
+    ],
+    "rating": 2.7,
+    "sales": 60588
+  },
+  {
+    "id": 103,
+    "title": "Partner around",
+    "author": "Veronica Vargas",
+    "releaseDate": "04-01-1908",
+    "description": "Arm position program professional enjoy. Lead treat until deep onto kind teach maybe.",
+    "genre": [
+      "Fiction",
+      "Thriller",
+      "Non-Fiction"
+    ],
+    "rating": 2.1,
+    "sales": 65608
+  },
+  {
+    "id": 104,
+    "title": "During",
+    "author": "Robert Stevens",
+    "releaseDate": "08-04-1909",
+    "description": "Well ago city American Congress.\nPicture vote recent however just. Car view new detail.",
+    "genre": [
+      "Science Fiction"
+    ],
+    "rating": 1.5,
+    "sales": 72422
+  },
+  {
+    "id": 105,
+    "title": "Fire do",
+    "author": "Jonathan Davis",
+    "releaseDate": "11-20-1985",
+    "description": "Approach its kitchen.",
+    "genre": [
+      "Mystery"
+    ],
+    "rating": 1.9,
+    "sales": 39440
+  },
+  {
+    "id": 106,
+    "title": "Not yard suggest",
+    "author": "Tiffany Cisneros",
+    "releaseDate": "07-22-2020",
+    "description": "Claim challenge believe treat other. Subject until coach my rather able nice whose.",
+    "genre": [
+      "Biography",
+      "Science Fiction"
+    ],
+    "rating": 2.2,
+    "sales": 18459
+  },
+  {
+    "id": 107,
+    "title": "Who executive",
+    "author": "Emily Brown",
+    "releaseDate": "08-13-1894",
+    "description": "Course effort pick late. Ok throw treat move week just series risk.",
+    "genre": [
+      "Science Fiction",
+      "Fiction"
+    ],
+    "rating": 4.4,
+    "sales": 91426
+  },
+  {
+    "id": 108,
+    "title": "Just simple",
+    "author": "Margaret Jackson",
+    "releaseDate": "12-09-1909",
+    "description": "Each possible time rate identify role. Eye power body.",
+    "genre": [
+      "Biography"
+    ],
+    "rating": 2.5,
+    "sales": 17739
+  },
+  {
+    "id": 109,
+    "title": "Specific in",
+    "author": "Robyn Whitehead DDS",
+    "releaseDate": "03-12-1911",
+    "description": "Action member this chance to. Cultural partner maybe people.",
+    "genre": [
+      "Biography"
+    ],
+    "rating": 3.7,
+    "sales": 56245
+  },
+  {
+    "id": 110,
+    "title": "Study TV discuss",
+    "author": "Emily Hall",
+    "releaseDate": "10-12-1893",
+    "description": "Build share begin look. Church country middle growth hour between forget. Close book team short.",
+    "genre": [
+      "Mystery"
+    ],
+    "rating": 3.7,
+    "sales": 3460
+  },
+  {
+    "id": 111,
+    "title": "Beautiful deal",
+    "author": "Robin Cardenas",
+    "releaseDate": "09-18-1890",
+    "description": "Recognize threat strong stock. Year wish western I. List campaign able.",
+    "genre": [
+      "Children's"
+    ],
+    "rating": 2.3,
+    "sales": 19144
+  },
+  {
+    "id": 112,
+    "title": "Course",
+    "author": "Chad Lee",
+    "releaseDate": "01-19-1937",
+    "description": "Claim its manager challenge. Board international best call.",
+    "genre": [
+      "Mystery",
+      "Fiction"
+    ],
+    "rating": 3.7,
+    "sales": 85930
+  },
+  {
+    "id": 113,
+    "title": "Process beyond best",
+    "author": "Angela Dixon",
+    "releaseDate": "11-11-1914",
+    "description": "Simply research base top. Lead career beyond order.",
+    "genre": [
+      "Romance",
+      "Fantasy",
+      "Mystery"
+    ],
+    "rating": 1.0,
+    "sales": 12213
+  },
+  {
+    "id": 114,
+    "title": "Conference conference fast",
+    "author": "Anthony Miller",
+    "releaseDate": "09-06-1957",
+    "description": "Various off back mention.\nBring maybe language product. Out authority behavior so.",
+    "genre": [
+      "Fiction",
+      "Thriller",
+      "Fantasy"
+    ],
+    "rating": 3.5,
+    "sales": 3087
+  },
+  {
+    "id": 115,
+    "title": "Same explain",
+    "author": "Elizabeth Hamilton",
+    "releaseDate": "07-16-2017",
+    "description": "West turn none do need friend number. Scientist medical door box. Charge machine road land reveal.",
+    "genre": [
+      "Fantasy"
+    ],
+    "rating": 2.1,
+    "sales": 34498
+  },
+  {
+    "id": 116,
+    "title": "Cut Mrs",
+    "author": "Timothy Powell",
+    "releaseDate": "05-31-1949",
+    "description": "Pm support small maintain. Administration maintain fill road.",
+    "genre": [
+      "Fiction",
+      "Historical",
+      "Science Fiction"
+    ],
+    "rating": 1.3,
+    "sales": 10350
+  },
+  {
+    "id": 117,
+    "title": "Sort painting maybe",
+    "author": "George Brown",
+    "releaseDate": "04-09-1887",
+    "description": "Explain artist effect. Matter response anything expect into heart management.",
+    "genre": [
+      "Biography",
+      "Mystery"
+    ],
+    "rating": 1.4,
+    "sales": 93271
+  },
+  {
+    "id": 118,
+    "title": "Simply and",
+    "author": "Calvin Hill",
+    "releaseDate": "11-10-1914",
+    "description": "Employee central need space minute fall. Unit always capital choice avoid could evening.",
+    "genre": [
+      "Fantasy",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "rating": 2.7,
+    "sales": 17970
+  },
+  {
+    "id": 119,
+    "title": "Former short",
+    "author": "Douglas Fields",
+    "releaseDate": "12-01-1896",
+    "description": "Central claim above near explain worker campaign. Region dinner bank president career quite most.",
+    "genre": [
+      "Biography",
+      "Fantasy",
+      "Mystery"
+    ],
+    "rating": 5.0,
+    "sales": 88600
+  },
+  {
+    "id": 120,
+    "title": "Often",
+    "author": "Kelly Williams",
+    "releaseDate": "11-28-1978",
+    "description": "Owner whole early. Explain record case.\nSound south main may result.",
+    "genre": [
+      "Science Fiction",
+      "Fiction"
+    ],
+    "rating": 1.3,
+    "sales": 39760
+  },
+  {
+    "id": 121,
+    "title": "Here say",
+    "author": "Joseph Hughes",
+    "releaseDate": "10-09-2014",
+    "description": "Clearly nothing answer high reach wish. Education continue house school hold.",
+    "genre": [
+      "Science Fiction",
+      "Non-Fiction",
+      "Fantasy"
+    ],
+    "rating": 1.8,
+    "sales": 17063
+  },
+  {
+    "id": 122,
+    "title": "Maintain happy while",
+    "author": "Selena Cain",
+    "releaseDate": "07-20-1991",
+    "description": "Significant rise official site body her. Politics not name sound hand.",
+    "genre": [
+      "Non-Fiction",
+      "Children's",
+      "Biography"
+    ],
+    "rating": 1.4,
+    "sales": 51436
+  },
+  {
+    "id": 123,
+    "title": "High very",
+    "author": "Becky Hunt",
+    "releaseDate": "05-10-1985",
+    "description": "Cell make bag scientist company court fly. Scientist rock public miss help.",
+    "genre": [
+      "Historical",
+      "Non-Fiction"
+    ],
     "rating": 4.0,
-    "sales": 22402
+    "sales": 80748
+  },
+  {
+    "id": 124,
+    "title": "Party deal name important",
+    "author": "Patrick Garcia",
+    "releaseDate": "07-27-1981",
+    "description": "Spring present cup. After upon involve yet once job.",
+    "genre": [
+      "Historical",
+      "Romance"
+    ],
+    "rating": 2.9,
+    "sales": 39639
+  },
+  {
+    "id": 125,
+    "title": "Happen himself leader",
+    "author": "Rachael Pugh",
+    "releaseDate": "01-06-1880",
+    "description": "Trial degree get ago state. Toward may leave nice think. Avoid model debate challenge sit.",
+    "genre": [
+      "Children's",
+      "Fiction",
+      "Romance"
+    ],
+    "rating": 1.3,
+    "sales": 87489
+  },
+  {
+    "id": 126,
+    "title": "Hand I change",
+    "author": "Rachel Wyatt",
+    "releaseDate": "11-14-2023",
+    "description": "Seat low upon a ask. Or training movie us continue about. Night image pass describe official whole.",
+    "genre": [
+      "Mystery"
+    ],
+    "rating": 4.4,
+    "sales": 13290
+  },
+  {
+    "id": 127,
+    "title": "Specific eight son",
+    "author": "Tony Johnson",
+    "releaseDate": "03-10-1947",
+    "description": "Wish prove east break yeah author. Nature those investment real mean and.",
+    "genre": [
+      "Historical"
+    ],
+    "rating": 1.9,
+    "sales": 5460
+  },
+  {
+    "id": 128,
+    "title": "Six great capital",
+    "author": "Michael Morris",
+    "releaseDate": "05-21-1933",
+    "description": "List it ready add. Same reduce debate design perform affect.",
+    "genre": [
+      "Children's"
+    ],
+    "rating": 1.9,
+    "sales": 92792
+  },
+  {
+    "id": 129,
+    "title": "Race kid near view",
+    "author": "David Bowen",
+    "releaseDate": "11-27-1898",
+    "description": "Ever well vote offer stage. Every return simply hotel sort war nothing. Exist industry bill matter.",
+    "genre": [
+      "Children's",
+      "Historical"
+    ],
+    "rating": 1.3,
+    "sales": 22687
+  },
+  {
+    "id": 130,
+    "title": "Term hold religious",
+    "author": "Michael Faulkner",
+    "releaseDate": "10-22-1970",
+    "description": "Hope task society election scientist level film. Practice cover medical save prepare.",
+    "genre": [
+      "Historical",
+      "Non-Fiction"
+    ],
+    "rating": 1.5,
+    "sales": 19746
+  },
+  {
+    "id": 131,
+    "title": "Increase participant",
+    "author": "Rachel Green",
+    "releaseDate": "11-27-1981",
+    "description": "Accept article music. Kitchen senior crime thousand. Trip floor pull table affect later later.",
+    "genre": [
+      "Children's",
+      "Non-Fiction",
+      "Fiction"
+    ],
+    "rating": 3.4,
+    "sales": 33106
+  },
+  {
+    "id": 132,
+    "title": "Spring treatment detail military",
+    "author": "Carlos Miller",
+    "releaseDate": "09-26-1936",
+    "description": "Worker believe society family attention they. Continue make official go color.",
+    "genre": [
+      "Romance"
+    ],
+    "rating": 3.1,
+    "sales": 96383
+  },
+  {
+    "id": 133,
+    "title": "Worker write pressure",
+    "author": "Elizabeth Fisher",
+    "releaseDate": "12-09-1941",
+    "description": "Home others lead strong. Each medical positive kitchen minute. Green when own break will author.",
+    "genre": [
+      "Mystery",
+      "Children's"
+    ],
+    "rating": 3.5,
+    "sales": 90783
+  },
+  {
+    "id": 134,
+    "title": "Every surface cell",
+    "author": "Scott Walter",
+    "releaseDate": "02-22-1962",
+    "description": "President trip growth official past explain it. Case visit stuff middle.",
+    "genre": [
+      "Mystery"
+    ],
+    "rating": 4.6,
+    "sales": 61772
+  },
+  {
+    "id": 135,
+    "title": "Technology significant",
+    "author": "Renee Parsons",
+    "releaseDate": "07-20-1927",
+    "description": "Special expert official save green room thought. View particular tell dinner.",
+    "genre": [
+      "Science Fiction"
+    ],
+    "rating": 4.9,
+    "sales": 47048
+  },
+  {
+    "id": 136,
+    "title": "Leg think bit",
+    "author": "Laura Henderson",
+    "releaseDate": "11-12-1967",
+    "description": "Some sense federal sound. Wish common direction.\nPut assume beautiful relationship.",
+    "genre": [
+      "Biography",
+      "Historical",
+      "Non-Fiction"
+    ],
+    "rating": 3.8,
+    "sales": 95595
+  },
+  {
+    "id": 137,
+    "title": "Loss great yeah",
+    "author": "Angel Collins",
+    "releaseDate": "04-01-1905",
+    "description": "Left of ball behind outside trip cold. Research reality wait speak.",
+    "genre": [
+      "Science Fiction",
+      "Romance",
+      "Mystery"
+    ],
+    "rating": 1.4,
+    "sales": 37898
+  },
+  {
+    "id": 138,
+    "title": "Seven",
+    "author": "Meredith Barrera",
+    "releaseDate": "08-27-1904",
+    "description": "Fear already tree job place far speech. Lead conference if hope rule. Born take forward.",
+    "genre": [
+      "Thriller",
+      "Romance"
+    ],
+    "rating": 1.6,
+    "sales": 84090
+  },
+  {
+    "id": 139,
+    "title": "Upon finish",
+    "author": "Julie Padilla",
+    "releaseDate": "06-09-1960",
+    "description": "Figure three language hour.",
+    "genre": [
+      "Fiction"
+    ],
+    "rating": 2.4,
+    "sales": 90041
+  },
+  {
+    "id": 140,
+    "title": "Buy evening",
+    "author": "Alexander Crosby",
+    "releaseDate": "05-06-1982",
+    "description": "Threat better above car. Reason responsibility skill concern level where.",
+    "genre": [
+      "Science Fiction"
+    ],
+    "rating": 2.8,
+    "sales": 99147
+  },
+  {
+    "id": 141,
+    "title": "Church end",
+    "author": "Alexandra Reynolds",
+    "releaseDate": "04-18-1942",
+    "description": "Matter effort not responsibility determine matter argue college. Glass bar office official.",
+    "genre": [
+      "Fiction",
+      "Fantasy"
+    ],
+    "rating": 3.3,
+    "sales": 82624
+  },
+  {
+    "id": 142,
+    "title": "Agent environmental",
+    "author": "Donald Perry",
+    "releaseDate": "10-04-1993",
+    "description": "Hard candidate rule join politics artist purpose. Course network artist field cell people.",
+    "genre": [
+      "Fiction"
+    ],
+    "rating": 3.6,
+    "sales": 44984
+  },
+  {
+    "id": 143,
+    "title": "Prepare difficult form",
+    "author": "Jeanne Sullivan",
+    "releaseDate": "09-11-1988",
+    "description": "Significant serious Democrat. Above everyone support place according.",
+    "genre": [
+      "Children's",
+      "Thriller",
+      "Fiction"
+    ],
+    "rating": 2.4,
+    "sales": 80030
+  },
+  {
+    "id": 144,
+    "title": "May a marriage",
+    "author": "Natalie Foster",
+    "releaseDate": "06-20-1895",
+    "description": "Bit garden late sit month figure. But approach Republican.",
+    "genre": [
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "rating": 3.5,
+    "sales": 85780
+  },
+  {
+    "id": 145,
+    "title": "Fine adult",
+    "author": "Jeremiah Morgan",
+    "releaseDate": "08-13-1915",
+    "description": "Anyone production heart seven. Nation newspaper just last hospital. Very language box near.",
+    "genre": [
+      "Science Fiction",
+      "Mystery",
+      "Biography"
+    ],
+    "rating": 1.7,
+    "sales": 32231
+  },
+  {
+    "id": 146,
+    "title": "Pick politics point",
+    "author": "Anne Perez",
+    "releaseDate": "04-30-1966",
+    "description": "Movement remember subject movie customer top general. Career hair seek.",
+    "genre": [
+      "Science Fiction",
+      "Fiction"
+    ],
+    "rating": 3.3,
+    "sales": 5161
+  },
+  {
+    "id": 147,
+    "title": "Professor per",
+    "author": "Todd Olson",
+    "releaseDate": "06-15-1891",
+    "description": "Spring camera house camera spend option. Minute offer town ability hospital American face.",
+    "genre": [
+      "Children's"
+    ],
+    "rating": 1.4,
+    "sales": 76323
+  },
+  {
+    "id": 148,
+    "title": "Plan work",
+    "author": "James Osborne",
+    "releaseDate": "10-11-1965",
+    "description": "Society particularly recent prove rise. Garden animal fight choice.\nPull boy kind too.",
+    "genre": [
+      "Thriller"
+    ],
+    "rating": 2.1,
+    "sales": 15788
+  },
+  {
+    "id": 149,
+    "title": "City wind quite",
+    "author": "Mr. Randall Morrison",
+    "releaseDate": "07-24-1889",
+    "description": "Only great employee time measure. Color either account member network case.",
+    "genre": [
+      "Mystery",
+      "Biography",
+      "Fantasy"
+    ],
+    "rating": 2.0,
+    "sales": 11500
+  },
+  {
+    "id": 150,
+    "title": "Air",
+    "author": "Jimmy Nielsen",
+    "releaseDate": "10-23-1896",
+    "description": "Support whose to social perhaps certain thus. He southern toward allow.",
+    "genre": [
+      "Fantasy"
+    ],
+    "rating": 4.2,
+    "sales": 50415
+  },
+  {
+    "id": 151,
+    "title": "Car little foreign",
+    "author": "Sandra Winters",
+    "releaseDate": "04-01-1938",
+    "description": "Best difficult your green rock mean travel. She by against art voice food. Bed next health.",
+    "genre": [
+      "Thriller"
+    ],
+    "rating": 2.1,
+    "sales": 48641
+  },
+  {
+    "id": 152,
+    "title": "Before long",
+    "author": "Brett Brown",
+    "releaseDate": "03-12-1960",
+    "description": "Consider response many above dream must. Realize once sing so kind measure point.",
+    "genre": [
+      "Children's",
+      "Romance"
+    ],
+    "rating": 1.8,
+    "sales": 59263
+  },
+  {
+    "id": 153,
+    "title": "Child might",
+    "author": "Brett Thompson",
+    "releaseDate": "10-30-1891",
+    "description": "Eye listen collection option mouth the his. Natural method whatever and still.",
+    "genre": [
+      "Fiction"
+    ],
+    "rating": 2.2,
+    "sales": 54167
+  },
+  {
+    "id": 154,
+    "title": "Late those",
+    "author": "Mark Mendoza",
+    "releaseDate": "10-01-1943",
+    "description": "Plant pass main write news front nor. Research outside similar business right top.",
+    "genre": [
+      "Fiction",
+      "Thriller"
+    ],
+    "rating": 2.8,
+    "sales": 29819
+  },
+  {
+    "id": 155,
+    "title": "Call let democratic",
+    "author": "Keith Hansen",
+    "releaseDate": "07-27-1886",
+    "description": "Choice major every seven. Sense future during. Statement learn green serious.",
+    "genre": [
+      "Thriller"
+    ],
+    "rating": 2.1,
+    "sales": 65005
+  },
+  {
+    "id": 156,
+    "title": "Positive worry",
+    "author": "Richard Diaz",
+    "releaseDate": "03-22-1906",
+    "description": "Win break process interview. How field receive boy mouth memory air it. During try write however.",
+    "genre": [
+      "Science Fiction",
+      "Biography",
+      "Thriller"
+    ],
+    "rating": 2.0,
+    "sales": 3248
+  },
+  {
+    "id": 157,
+    "title": "Reality surface child",
+    "author": "Amber Murphy",
+    "releaseDate": "05-18-1898",
+    "description": "Occur difficult material.",
+    "genre": [
+      "Fiction",
+      "Biography"
+    ],
+    "rating": 1.4,
+    "sales": 55778
+  },
+  {
+    "id": 158,
+    "title": "Something evidence stay",
+    "author": "Debra Fuller",
+    "releaseDate": "05-17-1995",
+    "description": "Onto tonight major into provide. Study throughout policy less prepare watch.",
+    "genre": [
+      "Children's",
+      "Mystery"
+    ],
+    "rating": 3.0,
+    "sales": 68006
+  },
+  {
+    "id": 159,
+    "title": "Radio own stay",
+    "author": "Joshua Erickson",
+    "releaseDate": "08-06-1926",
+    "description": "Surface manage maintain price event apply. Business commercial include stop. Where hope take.",
+    "genre": [
+      "Biography"
+    ],
+    "rating": 4.2,
+    "sales": 19781
+  },
+  {
+    "id": 160,
+    "title": "From job",
+    "author": "David Mcknight",
+    "releaseDate": "09-28-1998",
+    "description": "Answer high become eat order drug service. Seat field night share key I.",
+    "genre": [
+      "Mystery",
+      "Science Fiction",
+      "Non-Fiction"
+    ],
+    "rating": 1.9,
+    "sales": 42958
+  },
+  {
+    "id": 161,
+    "title": "Garden",
+    "author": "Patrick Avila",
+    "releaseDate": "09-14-1904",
+    "description": "Hot at meeting often across tend. Fact million rule institution until idea couple.",
+    "genre": [
+      "Fiction"
+    ],
+    "rating": 3.0,
+    "sales": 18042
+  },
+  {
+    "id": 162,
+    "title": "Concern account",
+    "author": "Ashley Thomas",
+    "releaseDate": "05-24-1973",
+    "description": "Until assume the have. Fire coach them. Need a hear military. Exactly admit dog.",
+    "genre": [
+      "Children's"
+    ],
+    "rating": 2.0,
+    "sales": 25901
+  },
+  {
+    "id": 163,
+    "title": "Late spring",
+    "author": "Charles Knapp",
+    "releaseDate": "03-06-1908",
+    "description": "Black he audience itself foot. Old news beautiful party. Involve get next around.",
+    "genre": [
+      "Fiction",
+      "Romance"
+    ],
+    "rating": 3.3,
+    "sales": 15997
+  },
+  {
+    "id": 164,
+    "title": "Let drive",
+    "author": "Sandra Golden",
+    "releaseDate": "06-01-1922",
+    "description": "Single worker our couple. Military son step meet test.\nWide some next general.",
+    "genre": [
+      "Fiction",
+      "Thriller"
+    ],
+    "rating": 3.4,
+    "sales": 59451
+  },
+  {
+    "id": 165,
+    "title": "Wrong character",
+    "author": "Richard Hodges",
+    "releaseDate": "11-21-2017",
+    "description": "Two participant including sense tend. Born imagine central rather.",
+    "genre": [
+      "Mystery",
+      "Fiction"
+    ],
+    "rating": 4.5,
+    "sales": 44645
   },
   {
     "id": 166,
-    "title": "The Wind in the Willows",
-    "author": "Kenneth Grahame",
-    "releaseDate": "10-08-1908",
+    "title": "Fish word",
+    "author": "Ryan Thompson",
+    "releaseDate": "08-31-1964",
+    "description": "East western ball month car season. Everyone huge few cover structure.",
     "genre": [
-      "Fantasy",
       "Children's"
     ],
-    "rating": 4.6,
-    "sales": 19000
+    "rating": 3.9,
+    "sales": 64524
   },
   {
     "id": 167,
-    "title": "Peter Pan",
-    "author": "J.M. Barrie",
-    "releaseDate": "01-17-1911",
+    "title": "Key stop",
+    "author": "Abigail Sanchez",
+    "releaseDate": "10-25-1977",
+    "description": "General I certainly.\nMajor sound by key themselves look house. Value more dark sure thus.",
     "genre": [
-      "Fantasy",
-      "Children's"
+      "Biography",
+      "Fantasy"
     ],
-    "rating": 4.7,
-    "sales": 21000
+    "rating": 3.0,
+    "sales": 46295
   },
   {
     "id": 168,
-    "title": "The Tale of Peter Rabbit",
-    "author": "Beatrix Potter",
-    "releaseDate": "09-01-1902",
+    "title": "From every",
+    "author": "Julie Goodman",
+    "releaseDate": "09-30-1951",
+    "description": "Available Congress popular more once total. Apply until something season each.",
     "genre": [
-      "Children's",
-      "Classic"
+      "Fantasy",
+      "Historical",
+      "Science Fiction"
     ],
-    "rating": 4.5,
-    "sales": 18000
+    "rating": 2.4,
+    "sales": 96507
   },
   {
     "id": 169,
-    "title": "Winnie-the-Pooh",
-    "author": "A.A. Milne",
-    "releaseDate": "10-14-1926",
+    "title": "Soldier must market",
+    "author": "Anthony Dean",
+    "releaseDate": "01-19-1981",
+    "description": "Management which performance black. Surface article walk hundred hundred direction.",
     "genre": [
-      "Children's",
-      "Classic"
+      "Historical",
+      "Mystery",
+      "Thriller"
     ],
-    "rating": 4.6,
-    "sales": 19000
+    "rating": 4.4,
+    "sales": 18773
   },
   {
     "id": 170,
-    "title": "The Little Prince",
-    "author": "Antoine de Saint-Exupéry",
-    "releaseDate": "04-06-1943",
+    "title": "Professional drive more",
+    "author": "Brian Navarro",
+    "releaseDate": "12-21-1893",
+    "description": "Approach hour ask store plant. Without unit ready low why. Him science form capital staff moment.",
     "genre": [
-      "Fantasy",
-      "Children's"
+      "Historical"
     ],
-    "rating": 4.9,
-    "sales": 25000
+    "rating": 4.1,
+    "sales": 69795
   },
   {
     "id": 171,
-    "title": "Charlotte's Web",
-    "author": "E.B. White",
-    "releaseDate": "10-15-1952",
+    "title": "Always machine",
+    "author": "Juan Reyes",
+    "releaseDate": "04-01-1919",
+    "description": "Too property necessary decide. Design activity teacher peace read police democratic.",
     "genre": [
-      "Children's",
       "Fantasy"
     ],
-    "rating": 4.8,
-    "sales": 24000
+    "rating": 1.0,
+    "sales": 89777
   },
   {
     "id": 172,
-    "title": "Matilda",
-    "author": "Roald Dahl",
-    "releaseDate": "10-01-1988",
+    "title": "Guy",
+    "author": "Kelly Carlson",
+    "releaseDate": "10-29-2015",
+    "description": "Pay Congress outside term artist. Design treatment ball indeed. Popular parent risk.",
     "genre": [
-      "Children's",
-      "Fantasy"
+      "Mystery",
+      "Science Fiction"
     ],
-    "rating": 4.8,
-    "sales": 24000
+    "rating": 3.6,
+    "sales": 7538
   },
   {
     "id": 173,
-    "title": "Charlie and the Chocolate Factory",
-    "author": "Roald Dahl",
-    "releaseDate": "01-17-1964",
+    "title": "Cultural style whole",
+    "author": "Victor Wyatt",
+    "releaseDate": "07-29-1894",
+    "description": "Visit born writer law speech camera establish. Short fly form able. Interest half oil no.",
     "genre": [
-      "Children's",
-      "Fantasy"
+      "Fiction",
+      "Historical",
+      "Children's"
     ],
-    "rating": 4.9,
-    "sales": 25000
+    "rating": 2.7,
+    "sales": 82008
   },
   {
     "id": 174,
-    "title": "The BFG",
-    "author": "Roald Dahl",
-    "releaseDate": "10-01-1982",
+    "title": "Clear people white",
+    "author": "Jared Madden",
+    "releaseDate": "11-10-1968",
+    "description": "Share have woman pull. Present tonight executive.",
     "genre": [
-      "Children's",
-      "Fantasy"
+      "Non-Fiction",
+      "Children's"
     ],
-    "rating": 4.7,
-    "sales": 23000
+    "rating": 1.9,
+    "sales": 46432
   },
   {
     "id": 175,
-    "title": "James and the Giant Peach",
-    "author": "Roald Dahl",
-    "releaseDate": "07-17-1961",
+    "title": "Small follow purpose",
+    "author": "Robert Reynolds",
+    "releaseDate": "03-12-2019",
+    "description": "Anything child lot age. Something top health week always just leave among.",
     "genre": [
       "Children's",
-      "Fantasy"
+      "Non-Fiction"
     ],
-    "rating": 4.6,
-    "sales": 22000
+    "rating": 4.5,
+    "sales": 19816
   },
   {
     "id": 176,
-    "title": "The Catcher in the Rye",
-    "author": "J.D. Salinger",
-    "releaseDate": "07-16-1951",
+    "title": "Painting finish",
+    "author": "Nicholas Green",
+    "releaseDate": "04-07-1976",
+    "description": "Possible drop alone sing character area. Sound raise town fast white fine trouble.",
     "genre": [
-      "Classic",
-      "Coming of Age"
+      "Science Fiction",
+      "Mystery",
+      "Romance"
     ],
-    "rating": 4.5,
-    "sales": 18000
+    "rating": 2.6,
+    "sales": 67647
   },
   {
     "id": 177,
-    "title": "To Kill a Mockingbird",
-    "author": "Harper Lee",
-    "releaseDate": "07-11-1960",
+    "title": "Deal second",
+    "author": "Shari Smith",
+    "releaseDate": "07-28-1935",
+    "description": "Traditional series interest decade. Many of trouble our onto down. Turn human yes field ability.",
     "genre": [
-      "Classic",
-      "Coming of Age"
+      "Children's"
     ],
-    "rating": 4.9,
-    "sales": 25000
+    "rating": 3.3,
+    "sales": 62473
   },
   {
     "id": 178,
-    "title": "The Outsiders",
-    "author": "S.E. Hinton",
-    "releaseDate": "04-24-1967",
+    "title": "Democratic because history",
+    "author": "Bryan Burton",
+    "releaseDate": "02-25-1967",
+    "description": "Present detail animal late south.",
     "genre": [
-      "Coming of Age",
-      "Drama"
+      "Romance",
+      "Children's",
+      "Mystery"
     ],
-    "rating": 4.7,
-    "sales": 22000
+    "rating": 4.5,
+    "sales": 84713
   },
   {
     "id": 179,
-    "title": "Lord of the Flies",
-    "author": "William Golding",
-    "releaseDate": "09-17-1954",
+    "title": "Hope sometimes already",
+    "author": "Anna Sutton",
+    "releaseDate": "10-18-1970",
+    "description": "Behind our place next at save. Service realize big include.",
     "genre": [
-      "Classic",
-      "Adventure"
+      "Romance",
+      "Fiction",
+      "Biography"
     ],
-    "rating": 4.6,
-    "sales": 19000
+    "rating": 3.0,
+    "sales": 15680
   },
   {
     "id": 180,
-    "title": "1984",
-    "author": "George Orwell",
-    "releaseDate": "06-08-1949",
+    "title": "Agree third",
+    "author": "Christopher Shaw",
+    "releaseDate": "06-06-1938",
+    "description": "Summer collection star suffer. Happen arm collection outside word character wonder.",
     "genre": [
-      "Dystopian",
-      "Science Fiction"
+      "Children's",
+      "Mystery"
     ],
-    "rating": 4.9,
-    "sales": 25000
+    "rating": 4.6,
+    "sales": 90968
   },
   {
     "id": 181,
-    "title": "Brave New World",
-    "author": "Aldous Huxley",
-    "releaseDate": "08-01-1932",
+    "title": "Throughout power save",
+    "author": "Daniel Shepherd",
+    "releaseDate": "07-30-2017",
+    "description": "Scene speech trial unit would future capital. General stop garden protect miss report.",
     "genre": [
-      "Dystopian",
-      "Science Fiction"
+      "Science Fiction",
+      "Historical",
+      "Mystery"
     ],
-    "rating": 4.8,
-    "sales": 24000
+    "rating": 4.7,
+    "sales": 1974
   },
   {
     "id": 182,
-    "title": "Fahrenheit 451",
-    "author": "Ray Bradbury",
-    "releaseDate": "10-19-1953",
+    "title": "Political health",
+    "author": "Melissa Carroll",
+    "releaseDate": "09-06-1895",
+    "description": "Early same exist above school upon west. Identify either avoid.",
     "genre": [
-      "Dystopian",
-      "Science Fiction"
+      "Thriller",
+      "Romance"
     ],
-    "rating": 4.7,
-    "sales": 23000
+    "rating": 4.2,
+    "sales": 99158
   },
   {
     "id": 183,
-    "title": "Animal Farm",
-    "author": "George Orwell",
-    "releaseDate": "08-17-1945",
+    "title": "Month maybe relationship",
+    "author": "Melinda Smith",
+    "releaseDate": "09-24-1982",
+    "description": "Charge truth PM.\nTogether spring season action half. Prevent eat to respond from whom.",
     "genre": [
-      "Dystopian",
-      "Political Satire"
+      "Historical"
     ],
-    "rating": 4.8,
-    "sales": 24000
+    "rating": 4.4,
+    "sales": 75689
   },
   {
     "id": 184,
-    "title": "Slaughterhouse-Five",
-    "author": "Kurt Vonnegut",
-    "releaseDate": "03-31-1969",
+    "title": "Good pick",
+    "author": "Joanna Baker",
+    "releaseDate": "02-02-1879",
+    "description": "Simply them into sometimes form change assume. Election candidate citizen for station become hand.",
     "genre": [
-      "Dystopian",
-      "Science Fiction"
+      "Science Fiction",
+      "Mystery",
+      "Historical"
     ],
-    "rating": 4.6,
-    "sales": 22000
+    "rating": 1.0,
+    "sales": 52747
   },
   {
     "id": 185,
-    "title": "A Clockwork Orange",
-    "author": "Anthony Burgess",
-    "releaseDate": "02-06-1962",
+    "title": "Identify",
+    "author": "Michael Johnson",
+    "releaseDate": "06-06-1900",
+    "description": "Discover interesting expect like director.",
     "genre": [
-      "Dystopian",
-      "Science Fiction"
+      "Mystery",
+      "Romance"
     ],
-    "rating": 4.5,
-    "sales": 19000
+    "rating": 1.3,
+    "sales": 60464
   },
   {
     "id": 186,
-    "title": "The Handmaid's Tale",
-    "author": "Margaret Atwood",
-    "releaseDate": "09-01-1985",
+    "title": "Him place sort",
+    "author": "Mr. Darrell Smith",
+    "releaseDate": "08-23-1989",
+    "description": "Relate charge represent our morning these what. Turn course laugh.",
     "genre": [
-      "Dystopian",
-      "Science Fiction"
+      "Thriller",
+      "Biography",
+      "Non-Fiction"
     ],
-    "rating": 4.7,
-    "sales": 23000
+    "rating": 3.9,
+    "sales": 20827
   },
   {
     "id": 187,
-    "title": "The Giver",
-    "author": "Lois Lowry",
-    "releaseDate": "04-26-1993",
+    "title": "Network play",
+    "author": "Tyler Ramirez",
+    "releaseDate": "11-23-1956",
+    "description": "Scientist lose step. Interesting research positive travel exist especially.",
     "genre": [
-      "Dystopian",
-      "Young Adult"
+      "Thriller"
     ],
-    "rating": 4.7,
-    "sales": 23000
+    "rating": 3.7,
+    "sales": 86104
   },
   {
     "id": 188,
-    "title": "The Hunger Games",
-    "author": "Suzanne Collins",
-    "releaseDate": "09-14-2008",
+    "title": "Bit painting ask",
+    "author": "Brian Greene",
+    "releaseDate": "07-10-1897",
+    "description": "However similar population ready system door. Executive may culture term.",
     "genre": [
-      "Dystopian",
-      "Young Adult"
+      "Fiction",
+      "Children's"
     ],
-    "rating": 4.9,
-    "sales": 25000
+    "rating": 4.4,
+    "sales": 11971
   },
   {
     "id": 189,
-    "title": "Catching Fire",
-    "author": "Suzanne Collins",
-    "releaseDate": "09-01-2009",
+    "title": "And produce figure",
+    "author": "Katelyn Martin",
+    "releaseDate": "03-10-1964",
+    "description": "All film hospital first. Meeting key out.\nLook from next glass. Guy price mind.",
     "genre": [
-      "Dystopian",
-      "Young Adult"
+      "Biography",
+      "Thriller"
     ],
-    "rating": 4.8,
-    "sales": 24000
+    "rating": 2.8,
+    "sales": 96784
   },
   {
     "id": 190,
-    "title": "Mockingjay",
-    "author": "Suzanne Collins",
-    "releaseDate": "08-24-2010",
+    "title": "Spring threat",
+    "author": "Victor Anderson",
+    "releaseDate": "11-18-1961",
+    "description": "Civil challenge somebody wish left return husband. Hit catch its most.",
     "genre": [
-      "Dystopian",
-      "Young Adult"
+      "Science Fiction",
+      "Thriller",
+      "Mystery"
     ],
-    "rating": 4.7,
-    "sales": 23000
+    "rating": 3.7,
+    "sales": 24868
   },
   {
     "id": 191,
-    "title": "Divergent",
-    "author": "Veronica Roth",
-    "releaseDate": "04-25-2011",
+    "title": "Finally remain",
+    "author": "Julie Robertson",
+    "releaseDate": "08-20-1976",
+    "description": "Feeling provide Democrat food appear. Big significant administration church team.",
     "genre": [
-      "Dystopian",
-      "Young Adult"
+      "Mystery",
+      "Children's"
     ],
-    "rating": 4.6,
-    "sales": 22000
+    "rating": 4.3,
+    "sales": 38258
+  },
+  {
+    "id": 192,
+    "title": "Then more trade",
+    "author": "Zachary Bean",
+    "releaseDate": "08-19-1953",
+    "description": "Other pull hotel marriage magazine theory environment. Four far family alone serve see.",
+    "genre": [
+      "Non-Fiction"
+    ],
+    "rating": 3.2,
+    "sales": 64625
+  },
+  {
+    "id": 193,
+    "title": "Media leader perhaps professional",
+    "author": "Willie Hall",
+    "releaseDate": "06-28-1948",
+    "description": "Student attack on while explain rest compare. Join send modern none his where tonight skill.",
+    "genre": [
+      "Thriller",
+      "Fiction",
+      "Mystery"
+    ],
+    "rating": 1.1,
+    "sales": 15563
+  },
+  {
+    "id": 194,
+    "title": "Share thus stage",
+    "author": "Michael Morrow",
+    "releaseDate": "06-23-1948",
+    "description": "Loss when decade tax. Policy bed car discover.",
+    "genre": [
+      "Non-Fiction",
+      "Mystery"
+    ],
+    "rating": 2.8,
+    "sales": 25785
+  },
+  {
+    "id": 195,
+    "title": "Ten claim training",
+    "author": "Kurt Nash",
+    "releaseDate": "01-04-1883",
+    "description": "When our contain international once physical.",
+    "genre": [
+      "Romance"
+    ],
+    "rating": 1.8,
+    "sales": 34114
+  },
+  {
+    "id": 196,
+    "title": "Front system",
+    "author": "Emily Williams",
+    "releaseDate": "08-01-1903",
+    "description": "Realize imagine performance head respond if. Continue structure woman establish.",
+    "genre": [
+      "Mystery"
+    ],
+    "rating": 1.6,
+    "sales": 15880
+  },
+  {
+    "id": 197,
+    "title": "Film research should whether",
+    "author": "Timothy Nguyen",
+    "releaseDate": "01-10-1889",
+    "description": "Develop cultural home dog help.\nHim every industry maintain.",
+    "genre": [
+      "Romance",
+      "Thriller",
+      "Mystery"
+    ],
+    "rating": 2.4,
+    "sales": 82244
+  },
+  {
+    "id": 198,
+    "title": "Check",
+    "author": "Rachel Silva",
+    "releaseDate": "02-02-1908",
+    "description": "Green develop choice population. Believe spend reveal. Purpose officer seem market.",
+    "genre": [
+      "Children's"
+    ],
+    "rating": 4.2,
+    "sales": 78695
+  },
+  {
+    "id": 199,
+    "title": "Walk according analysis",
+    "author": "Bradley Rivera",
+    "releaseDate": "12-05-1910",
+    "description": "Option score after summer particular. Certain really better consumer. Congress become improve yard.",
+    "genre": [
+      "Non-Fiction"
+    ],
+    "rating": 3.1,
+    "sales": 47818
+  },
+  {
+    "id": 200,
+    "title": "Tell prepare",
+    "author": "Jessica King",
+    "releaseDate": "02-11-1951",
+    "description": "Base think large call positive money. Age than control area charge easy tax her.",
+    "genre": [
+      "Non-Fiction",
+      "Thriller",
+      "Children's"
+    ],
+    "rating": 1.4,
+    "sales": 74049
   }
 ]

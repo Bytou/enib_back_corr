@@ -15,6 +15,7 @@ public class Book {
     private int id;
     private String title;
     private String author;
+    private String description;
     private List<String> genre;
     private Date releaseDate;
     private float rating;
