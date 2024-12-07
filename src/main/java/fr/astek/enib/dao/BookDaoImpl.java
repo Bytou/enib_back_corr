@@ -99,8 +99,6 @@ public class BookDaoImpl implements BookDao {
             updatedBook.setAuthor(bookToUpdate.getAuthor());
             updatedBook.setReleaseDate(bookToUpdate.getReleaseDate());
             updatedBook.setGenre(bookToUpdate.getGenre());
-            updatedBook.setRating(bookToUpdate.getRating());
-            updatedBook.setSales(bookToUpdate.getSales());
             return updatedBook;
         }
         return null;
