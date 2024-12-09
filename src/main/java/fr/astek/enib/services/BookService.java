@@ -21,4 +21,6 @@ public interface BookService {
     Book patchRating(int idBook, float rating) throws BookNotExistsException;
 
     Book updateBook(int idBook, Book bookToUpdate) throws BookNotExistsException;
+
+    List<Book> getFilteredBook(String title, String author, String genre, Float minRating);
 }

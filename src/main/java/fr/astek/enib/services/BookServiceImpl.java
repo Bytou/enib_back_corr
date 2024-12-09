@@ -10,6 +10,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Optional;
 import java.util.Set;
+import java.util.stream.Collectors;
 
 @Service
 public class BookServiceImpl implements BookService {
@@ -60,6 +61,19 @@ public class BookServiceImpl implements BookService {
     public Book updateBook(int idBook, Book bookToUpdate) throws BookNotExistsException {
         Book book = bookDao.updateBook(idBook, bookToUpdate);
         return checkBookExistence(book);
+    }
+
+    @Override
+    public List<Book> getFilteredBook(String title, String author, String genre, Float minRating) {
+        List<Book> books = bookDao.getBooks();
+
+        return books.stream()
+                .filter(book -> title == null || book.getTitle().toLowerCase().contains(title.toLowerCase()))
+                .filter(book -> author == null || book.getAuthor().toLowerCase().contains(author.toLowerCase()))
+                .filter(book -> minRating == null || book.getRating() >= minRating)
+                .filter(book -> genre == null || book.getGenre().stream()
+                        .anyMatch(g -> g.equalsIgnoreCase(genre)))
+                .collect(Collectors.toList());
     }
 
     private Book checkBookExistence(Book book) throws BookNotExistsException {

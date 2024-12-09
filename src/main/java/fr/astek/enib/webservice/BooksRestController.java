@@ -55,7 +55,16 @@ public class BooksRestController {
         return new ResponseEntity<>(bookService.updateBook(idBook, bookToUpdate), HttpStatus.OK);
     }
 
-    //TODO get by filter
+    @GetMapping("/filter")
+    public ResponseEntity<List<Book>> getFilteredBooks(
+            @RequestParam(required = false) String title,
+            @RequestParam(required = false) String author,
+            @RequestParam(required = false) String genre,
+            @RequestParam(required = false) Float minRating
+    ) {
+
+        return new ResponseEntity<>(bookService.getFilteredBook(title, author, genre, minRating), HttpStatus.OK);
+    }
 
     @ExceptionHandler(BookException.class)
     private ResponseEntity<String> BookExceptionExists(BookException paee) {
